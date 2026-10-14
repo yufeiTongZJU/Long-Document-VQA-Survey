@@ -2,13 +2,13 @@
 
 **A Task-Centric Survey of Long-Document Visual Question Answering: Taxonomy, Evolution, and Future Directions**
 
-Yufei Tong<sup>1</sup>, Guanjie Cheng<sup>2,*</sup>, Tianle Wu<sup>3</sup>, Leilei Zhang<sup>1,*</sup>, Hang Zheng<sup>1,4</sup>, Peihan Wu<sup>1</sup>, Jianwei Yin<sup>1,2</sup>, Shuiguang Deng<sup>1</sup>
+Yufei Tong<sup>1</sup>, Guanjie Cheng<sup>2,&#42;</sup>, Tianle Wu<sup>3</sup>, Leilei Zhang<sup>1,&#42;</sup>, Hang Zheng<sup>1,4</sup>, Peihan Wu<sup>1</sup>, Jianwei Yin<sup>1,2</sup>, Shuiguang Deng<sup>1</sup>
 
 <sup>1</sup>College of Computer Science and Technology, Zhejiang University  
 <sup>2</sup>School of Software Technology, Zhejiang University  
 <sup>3</sup>Polytechnic Institute, Zhejiang University  
 <sup>4</sup>BWTON Technology Co., Ltd., China  
-<sup>*</sup>Corresponding authors: Guanjie Cheng and Leilei Zhang.
+<sup>&#42;</sup>Corresponding authors: Guanjie Cheng and Leilei Zhang.
 
 [Overview](#overview) · [Paper catalogs](#paper-catalogs) · [Taxonomy](taxonomy.md) · [Research evolution](#research-evolution) · [Citation](#citation) · [Contributing](CONTRIBUTING.md)
 
