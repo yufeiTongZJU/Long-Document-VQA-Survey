@@ -10,7 +10,7 @@ Yufei Tong<sup>1</sup>, Guanjie Cheng<sup>2,&#42;</sup>, Tianle Wu<sup>3</sup>, 
 <sup>4</sup>BWTON Technology Co., Ltd., China  
 <sup>&#42;</sup>Corresponding authors: Guanjie Cheng and Leilei Zhang.
 
-[Paper lists](#paper-lists) · [Bibliography](references.bib) · [Citation](#citation)
+[Contributions](#core-contributions) · [Future directions](#future-research-directions) · [Paper lists](#paper-lists) · [Citation](#citation)
 
 *The arXiv link will be added after release.*
 
@@ -18,7 +18,13 @@ Yufei Tong<sup>1</sup>, Guanjie Cheng<sup>2,&#42;</sup>, Tianle Wu<sup>3</sup>, 
 
 How can long-document VQA systems acquire and use **sufficient evidence within a limited budget**?
 
-Our survey connects task challenges with technical choices across parsing, retrieval, generation, and evaluation. It covers explicit retrieval and direct reading, tracing the shift from content understanding to evidence acquisition and sustained evidence management.
+We analyze how document VQA systems meet these requirements, emphasizing explicit retrieval while also covering direct reading.
+
+## Core contributions
+
+- **A task-driven framework.** We connect content fidelity, evidence sufficiency, evidence use, and reliable evaluation to four interacting components: document parsing, evidence organization and retrieval, generator organization and learning, and evaluation.
+- **A fine-grained taxonomy by task function.** We categorize representations and structures, retrieval modalities and granularities, acquisition strategies, reasoning and learning, and evaluation capabilities. This clarifies distinctions such as iterative evidence acquisition versus multi-step reasoning.
+- **Bottleneck-driven technical evolution.** We trace expanding priorities from multimodal understanding to sufficient, high-fidelity evidence acquisition and sustained evidence management, explaining how bottlenecks and feedback connect technical choices across components.
 
 ![Task decomposition and two technical routes for long-document VQA](assets/task-framework.png)
 
@@ -28,6 +34,23 @@ Our survey connects task challenges with technical choices across parsing, retri
 ![Three research priorities and technical evolution across four components](assets/research-evolution.png)
 
 </details>
+
+## Future research directions
+
+Our outlook connects open challenges to concrete opportunities for system design and evaluation at two levels.
+
+### Reliable and efficient answers to individual questions
+
+- **Evidence sufficiency:** Construct complementary evidence sets, model dependencies, and test whether systems detect relevant but insufficient support before deciding to acquire more evidence or stop.
+- **Verifiable and correctable understanding:** Link intermediate judgments to source pages and regions, test whether evidence supports answers, and revise erroneous memories and dependent conclusions.
+- **Budget-aware coordination:** Coordinate parsing, retrieval, reading, verification, and stopping using evidence states and remaining budgets; measure answer quality against end-to-end cost across document lengths and budgets.
+
+### Toward continual document understanding
+
+- **Memory reuse across questions:** Reuse evidence and interaction history while tracking provenance, checking continued applicability, and revising memories after user corrections or document updates.
+- **Continual, experience-driven strategy improvement:** Develop transferable retrieval, reading, and verification procedures from successes, failures, and feedback; validate proposed strategies on independent tasks before updating agents or their skills.
+
+Section 4 and Appendix D of the survey develop these research opportunities in detail.
 
 ## Paper lists
 
