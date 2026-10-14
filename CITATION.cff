@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use this catalog or the survey's taxonomy, please cite the accompanying survey. Public preprint metadata will be added after release."
+type: dataset
+title: "Long-Document VQA Survey: Literature Catalog"
+url: "https://github.com/yufeiTongZJU/Long-Document-VQA-Survey"
+license: CC-BY-4.0
+authors:
+  - family-names: Tong
+    given-names: Yufei
+  - family-names: Cheng
+    given-names: Guanjie
+  - family-names: Wu
+    given-names: Tianle
+  - family-names: Zhang
+    given-names: Leilei
+  - family-names: Zheng
+    given-names: Hang
+  - family-names: Wu
+    given-names: Peihan
+  - family-names: Yin
+    given-names: Jianwei
+  - family-names: Deng
+    given-names: Shuiguang
+preferred-citation:
+  type: unpublished
+  title: "A Task-Centric Survey of Long-Document Visual Question Answering: Taxonomy, Evolution, and Future Directions"
+  year: 2026
+  notes: "Manuscript; public preprint metadata will be added after release."
+  authors:
+    - family-names: Tong
+      given-names: Yufei
+    - family-names: Cheng
+      given-names: Guanjie
+    - family-names: Wu
+      given-names: Tianle
+    - family-names: Zhang
+      given-names: Leilei
+    - family-names: Zheng
+      given-names: Hang
+    - family-names: Wu
+      given-names: Peihan
+    - family-names: Yin
+      given-names: Jianwei
+    - family-names: Deng
+      given-names: Shuiguang

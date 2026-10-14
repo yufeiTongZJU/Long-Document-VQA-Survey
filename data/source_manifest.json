@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "description": "Content hashes of the external manuscript inputs and generated public artifacts. All paths are repository-relative; no source checkout location is recorded.",
+  "sources": [
+    {
+      "path": "tables/table4_full.tex",
+      "sha256": "1285a49508bd2c942fa1fb76490562637fd38e82b5b7f274c68b841c508f7afe"
+    },
+    {
+      "path": "tables/table5_full.tex",
+      "sha256": "a409c2493e39d4143b4012df4cfd7bf051b92bddea83cf39baf2386daf2dea32"
+    },
+    {
+      "path": "tables/table6_full.tex",
+      "sha256": "a5b777bf14f6d2131c8970326a818874b7019564cc854007db7f3ed405b0cf8a"
+    },
+    {
+      "path": "references.bib",
+      "sha256": "3d1e0061731c57d116c94310be414d9f48e4dc357696c1f0e44a7df423d0483b"
+    },
+    {
+      "path": "reference_sources.json",
+      "sha256": "611ba56d296f171eb97a490d0fa2186ddccdca803fbe3d66337848d2ecd0d9af"
+    },
+    {
+      "path": "tables/table1_explicit_methods.tex",
+      "sha256": "bd980ed3939b2e4afbb876c82274d2725497237fc16cb684dad7363e13b55135"
+    }
+  ],
+  "generated": [
+    {
+      "path": "data/benchmarks.csv",
+      "sha256": "ed1ed930b1278e90b376eb9cd750078268b302144dede6270e3ab1c4b493ce41"
+    },
+    {
+      "path": "data/benchmarks.json",
+      "sha256": "b6c91e4b586f6bf3637d0a530b527715bce08f392f7edd58e8e178c9e4d0f6d3"
+    },
+    {
+      "path": "data/bibliography.csv",
+      "sha256": "05ec2472170235951cf542ea6823155fd8b07542704b88bd583edd6472bdcd8d"
+    },
+    {
+      "path": "data/bibliography.json",
+      "sha256": "0c80171e8df5265e62e6e84cb1793177294f36bc59500210919410e2f95b732c"
+    },
+    {
+      "path": "data/direct-reading.csv",
+      "sha256": "8dcb05a06f90c7db7b34c46368474bb931f09f3c7473071a60ca93bf7b234093"
+    },
+    {
+      "path": "data/direct-reading.json",
+      "sha256": "827d0e89fb832a797d9d50f02e6f515a0daea295930ec8294384d6d968e29684"
+    },
+    {
+      "path": "data/explicit-retrieval.csv",
+      "sha256": "bc4f8c5bcbd1ff726bbf01f39a5845ee50d410b84d5be85761003a7ab3629658"
+    },
+    {
+      "path": "data/explicit-retrieval.json",
+      "sha256": "feb8a161d46db45092cb6a224a409e0b090b9c66fc8903600a90d4cff0b77b5f"
+    },
+    {
+      "path": "data/validation.json",
+      "sha256": "42f55ff9607f8db3836f6238a94c6f3b35b9f467a3c9414eb69ba5302361ddf8"
+    },
+    {
+      "path": "papers/benchmarks.md",
+      "sha256": "d6fb984789f1824db6cd4214f4ef90c976c2b80b757a3f659ba0c6b74c915d28"
+    },
+    {
+      "path": "papers/direct-reading.md",
+      "sha256": "afeb90e7d6926298ae2ab0149b1461f01601f8b35335358ba5f37cf0ad60b381"
+    },
+    {
+      "path": "papers/explicit-retrieval.md",
+      "sha256": "09b51096b003f099c59deae9d8218c2bf50bc0186e9fa24d761910b488acdaa9"
+    },
+    {
+      "path": "reference_sources.json",
+      "sha256": "1b6c84e900042be0ff0733a84f33fda90833fbb23e0f03107bfde56fac2dcba4"
+    },
+    {
+      "path": "references.bib",
+      "sha256": "3d1e0061731c57d116c94310be414d9f48e4dc357696c1f0e44a7df423d0483b"
+    }
+  ]
+}

@@ -1,0 +1,1657 @@
+{
+  "schema_version": 1,
+  "description": "Public link-only subset derived from manuscript reference_sources.json and current references.bib. Bibliographic fields are sourced exclusively from references.bib. Private evidence paths and unrelated audit metadata are excluded.",
+  "source_provenance_verified_date": "2026-10-12",
+  "records": [
+    {
+      "citekey": "tanaka2023slidevqa",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Slidevqa%3A%20A%20dataset%20for%20document%20visual%20question%20answering%20on%20multiple%20images",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "tito2023hierarchical",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Hierarchical%20multimodal%20transformers%20for%20multipage%20docvqa",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ma2024mmlongbench",
+      "paper_url": "https://papers.nips.cc/paper_files/paper/2024/hash/ae0e43289bffea0c1fa34633fc608e92-Abstract-Datasets_and_Benchmarks_Track.html",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Mmlongbench-doc%3A%20Benchmarking%20long-context%20document%20understanding%20with%20visualizations",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ma2024unifying",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Unifying%20multimodal%20retrieval%20via%20document%20screenshot%20embedding",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "yu2025visrag",
+      "paper_url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/3640a1997a4c9571cea9db2c82e1fc35-Abstract-Conference.html",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Visrag%3A%20Vision-based%20retrieval-augmented%20generation%20on%20multi-modality%20documents",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "chen2024svrag",
+      "paper_url": "https://arxiv.org/abs/2411.01106",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=SV-RAG%3A%20LoRA-contextualizing%20adaptation%20of%20MLLMs%20for%20long%20document%20understanding",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "cho2025m3docvqa",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=M3docvqa%3A%20Multi-modal%20multi-page%20multi-document%20understanding",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "wang2026vragrl",
+      "paper_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/529b876b5d87f997e98ed925a3ce9f01-Abstract-Conference.html",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Vrag-rl%3A%20Empower%20vision-perception-based%20rag%20for%20visually%20rich%20information%20understanding%20via%20iterative%20reasoning%20with%20reinforcement%20learning",
+      "link_provenance": {
+        "source": "reference_sources.json:scholarResultUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "mathew2021docvqa",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Docvqa%3A%20A%20dataset%20for%20vqa%20on%20document%20images",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "huang2022layoutlmv3",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Layoutlmv3%3A%20Pre-training%20for%20document%20ai%20with%20unified%20text%20and%20image%20masking",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "gao2026scaling",
+      "paper_url": "https://aclanthology.org/2026.acl-long.204/",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Scaling%20beyond%20context%3A%20A%20survey%20of%20multimodal%20retrieval-augmented%20generation%20for%20document%20understanding",
+      "link_provenance": {
+        "source": "reference_sources.json:scholarResultUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "yan2026unlocking",
+      "paper_url": "https://arxiv.org/abs/2602.19961",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Unlocking%20Multimodal%20Document%20Intelligence%3A%20From%20Current%20Triumphs%20to%20Future%20Frontiers%20of%20Visual%20Document%20Retrieval",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ding2026survey",
+      "paper_url": "https://aclanthology.org/2026.findings-acl.652/",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=A%20survey%20on%20MLLM-based%20visually%20rich%20document%20understanding%3A%20Methods%2C%20challenges%2C%20and%20emerging%20trends",
+      "link_provenance": {
+        "source": "reference_sources.json:scholarResultUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "barboule2025survey",
+      "paper_url": "https://arxiv.org/abs/2501.02235",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Survey%20on%20question%20answering%20over%20visually%20rich%20documents%3A%20Methods%2C%20challenges%2C%20and%20trends",
+      "link_provenance": {
+        "source": "reference_sources.json:scholarResultUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "dong2026docresearcher",
+      "paper_url": "https://doi.org/10.1145/3774904.3792599",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Doc-researcher%3A%20A%20unified%20system%20for%20multimodal%20document%20parsing%20and%20deep%20research",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref3",
+      "paper_url": "https://openaccess.thecvf.com/content/ICCV2023/html/Van_Landeghem_Document_Understanding_Dataset_and_Evaluation_DUDE_ICCV_2023_paper.html",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Document%20understanding%20dataset%20and%20evaluation%20%28dude%29",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref7",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Colpali%3A%20Efficient%20document%20retrieval%20with%20vision%20language%20models",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref10",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Visdom%3A%20Multi-document%20qa%20with%20visually%20rich%20elements%20using%20multimodal%20retrieval-augmented%20generation",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref11",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Vdocrag%3A%20Retrieval-augmented%20generation%20over%20visually-rich%20documents",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref13",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Visa%3A%20Retrieval%20augmented%20generation%20with%20visual%20source%20attribution",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref15",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Dogr%3A%20Towards%20versatile%20visual%20document%20grounding%20and%20referring",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref16",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=M-longdoc%3A%20A%20benchmark%20for%20multimodal%20super-long%20document%20understanding%20and%20a%20retrieval-aware%20tuning%20framework",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref17",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=MMDocIR%3A%20Benchmarking%20multimodal%20retrieval%20for%20long%20documents",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref18",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Vidorag%3A%20Visual%20document%20retrieval-augmented%20generation%20via%20dynamic%20iterative%20reasoning%20agents",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref25",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Docvlm%3A%20Make%20your%20vlm%20an%20efficient%20reader",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref26",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=mplug-docowl2%3A%20High-resolution%20compressing%20for%20ocr-free%20multi-page%20document%20understanding",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref27",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Docr1%3A%20Evidence%20page-guided%20grpo%20for%20multi-page%20document%20understanding",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref29",
+      "paper_url": "https://arxiv.org/abs/2604.12812",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=DocSeeker%3A%20Structured%20visual%20reasoning%20with%20evidence%20grounding%20for%20long%20document%20understanding",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref30",
+      "paper_url": "https://aclanthology.org/2025.acl-short.6/",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Doc-react%3A%20Multi-page%20heterogeneous%20document%20question-answering",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref32",
+      "paper_url": "https://arxiv.org/abs/2503.13964",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Mdocagent%3A%20A%20multi-modal%20multi-agent%20framework%20for%20document%20understanding",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref34",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=SimpleDoc%3A%20Multi%E2%80%90Modal%20Document%20Understanding%20with%20Dual%E2%80%90Cue%20Page%20Retrieval%20and%20Iterative%20Refinement",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref42",
+      "paper_url": "https://arxiv.org/abs/2510.12323",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Rag-anything%3A%20All-in-one%20rag%20framework",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref44",
+      "paper_url": "https://arxiv.org/abs/2604.22281",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=DocPrune%3A%20Efficient%20Document%20Question%20Answering%20via%20Background%2C%20Question%2C%20and%20Comprehension-aware%20Token%20Pruning",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref46",
+      "paper_url": "https://arxiv.org/abs/2512.12658",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=CogDoc%3A%20Towards%20unified%20thinking%20in%20documents",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref48",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Doclens%3A%20A%20tool-augmented%20multi-agent%20framework%20for%20long%20visual%20document%20understanding",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref49",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=MAB-DQA%3A%20Addressing%20query%20aspect%20importance%20in%20document%20question%20answering%20with%20multi-armed%20bandits",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref50",
+      "paper_url": "https://aclanthology.org/2026.acl-long.2129/",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Doc-V%2A%3A%20Coarse-to-Fine%20Interactive%20Visual%20Reasoning%20for%20Multi-Page%20Document%20VQA",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref51",
+      "paper_url": "https://aclanthology.org/2026.findings-acl.1488/",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=MM-Doc-R1%3A%20Training%20Agents%20for%20Long%20Document%20Visual%20Question%20Answering%20through%20Multi-turn%20Reinforcement%20Learning",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref52",
+      "paper_url": "https://arxiv.org/abs/2601.05163",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Docdancer%3A%20Towards%20agentic%20document-grounded%20information%20seeking",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref53",
+      "paper_url": "https://arxiv.org/abs/2602.12735",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=VimRAG%3A%20Navigating%20Massive%20Visual%20Context%20in%20Retrieval-Augmented%20Generation%20via%20Multimodal%20Memory%20Graph",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref56",
+      "paper_url": "https://arxiv.org/abs/2606.15906",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=MAGE-RAG%3A%20Multigranular%20Adaptive%20Graph%20Evidence%20for%20Agentic%20Multimodal%20RAG%20in%20Long-Document%20QA",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref59",
+      "paper_url": "https://arxiv.org/abs/2608.30163",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Doc-REFRAG%3A%20Rethinking%20Multimodal%20Document%20Retrieval-Augmented%20Generation",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref60",
+      "paper_url": "https://arxiv.org/abs/2608.03292",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=DocTrace%3A%20Towards%20Traceable%20Long%20Document%20VQA%20via%20Hierarchical%20Evidence%20Graph%20Reasoning",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref62",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Infographicvqa",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref67",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Ocr-free%20document%20understanding%20transformer",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref70",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=SCoPE%20VLM%3A%20Selective%20Context%20Processing%20for%20Efficient%20Document%20Navigation%20in%20Vision-Language%20Models",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref83",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Vidore%20v3%3A%20A%20comprehensive%20evaluation%20of%20retrieval%20augmented%20generation%20in%20complex%20real-world%20scenarios",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref86",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Towards%20complex%20document%20understanding%20by%20discrete%20reasoning",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref87",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Unifying%20vision%2C%20text%2C%20and%20layout%20for%20universal%20document%20processing",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref88",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Real-mm-rag%3A%20A%20real-world%20multi-modal%20retrieval%20benchmark",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref101",
+      "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/37597",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=RegionRAG%3A%20Region-level%20Retrieval-Augmented%20Generation%20for%20Visual%20Document%20Understanding",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref89",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=RobustVisRAG%3A%20Causality-Aware%20Vision-Based%20Retrieval-Augmented%20Generation%20under%20Visual%20Degradations",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref92",
+      "paper_url": "https://aclanthology.org/2023.findings-emnlp.187/",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Ureader%3A%20Universal%20ocr-free%20visually-situated%20language%20understanding%20with%20multimodal%20large%20language%20model",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref94",
+      "paper_url": "https://arxiv.org/abs/2602.23061",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=MoDora%3A%20Tree-Based%20Semi-Structured%20Document%20Analysis%20System",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref96",
+      "paper_url": "https://arxiv.org/abs/2608.25618",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=AWM%3A%20Answerable%20Working%20Memory%20for%20Long-Document%20VQA%20Agents",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref104",
+      "paper_url": "https://arxiv.org/abs/2602.24134",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Agenticocr%3A%20Parsing%20only%20what%20you%20need%20for%20efficient%20retrieval-augmented%20generation",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref113",
+      "paper_url": "https://arxiv.org/abs/2605.08888",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=DocScope%3A%20Benchmarking%20Verifiable%20Reasoning%20for%20Trustworthy%20Long-Document%20Understanding",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref115",
+      "paper_url": "https://arxiv.org/abs/2606.08979",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=EviProp%3A%20Seeded%20Relevance%20Diffusion%20on%20Chunk-Page%20Graphs%20for%20Long%20Multimodal%20Document%20Retrieval",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref117",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Gram%3A%20Global%20reasoning%20for%20multi-page%20vqa",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref118",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Cream%3A%20coarse-to-fine%20retrieval%20and%20multi-modal%20efficient%20tuning%20for%20document%20vqa",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref126",
+      "paper_url": "https://arxiv.org/abs/2605.27243",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Can%20Retrieval%20Heads%20See%20Images%3F%20Multimodal%20Retrieval%20Heads%20in%20Long-Context%20Vision-Language%20Models",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref127",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=LMS-Retrieval%3A%20Layout-Aware%2C%20Modality-Aware%2C%20Structure-Aware%20Document%20Retrieval",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref35",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Molorag%3A%20Bootstrapping%20document%20understanding%20via%20multi-modal%20logic-aware%20retrieval",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref36",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Lilac%3A%20Late%20interacting%20in%20layered%20component%20graph%20for%20open-domain%20multimodal%20multihop%20retrieval",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref37",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Docagent%3A%20An%20agentic%20framework%20for%20multi-modal%20long-context%20document%20understanding",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref38",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=URaG%3A%20Unified%20retrieval%20and%20generation%20in%20multimodal%20LLMs%20for%20efficient%20long%20document%20understanding",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref40",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Dmap%3A%20Human-aligned%20structural%20document%20map%20for%20multimodal%20document%20understanding",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref41",
+      "paper_url": "https://arxiv.org/abs/2510.09733",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Visrag%202.0%3A%20Evidence-guided%20multi-image%20reasoning%20in%20visual%20retrieval-augmented%20generation",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref71",
+      "paper_url": "https://arxiv.org/abs/2607.10400",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=SynthDocBench%3A%20Controlled%20Benchmark%20for%20Long-Context%20Visual%20Document%20Understanding",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref72",
+      "paper_url": "https://arxiv.org/abs/2608.07527",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=DocAtlas%3A%20Long-Document%20Understanding%20as%20Mutable-State%20Interaction",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref75",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Chartqa%3A%20A%20benchmark%20for%20question%20answering%20about%20charts%20with%20visual%20and%20logical%20reasoning",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref76",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Pix2struct%3A%20Screenshot%20parsing%20as%20pretraining%20for%20visual%20language%20understanding",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref79",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=CMDR%3A%20Contextual%20Multimodal%20Document%20Retrieval",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref82",
+      "paper_url": "https://arxiv.org/abs/2505.17166",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Vidore%20benchmark%20v2%3A%20Raising%20the%20bar%20for%20visual%20retrieval",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref134",
+      "paper_url": "https://arxiv.org/abs/2607.29638",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=HierDoc%3A%20Hierarchical%20Page-to-Region%20Evidence%20Routing%20for%20Long-Document%20Visual%20Question%20Answering",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref145",
+      "paper_url": "https://arxiv.org/abs/2608.18685",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=DocClaw%3A%20A%20Unified%20Agentic%20System%20for%20Intelligent%20Document%20Processing",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref148",
+      "paper_url": "https://arxiv.org/abs/2608.07067",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=DocMemo%3A%20Dynamic%20Evidence%20Discovery%20via%20Probabilistic%20Memory-Guided%20Retrieval%20for%20Multi-Modal%20Document%20Understanding",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref149",
+      "paper_url": "https://arxiv.org/abs/2608.16417",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=D2-ScaleAgent%3A%20Dual-Dimensional%20Scaling%20for%20Long%20Document%20Understanding",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref150",
+      "paper_url": "https://arxiv.org/abs/2609.15800",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Navigating%20Sparse%20Evidence%3A%20Agentic%20Visual%20RAG%20via%20Explicit%20Context%20Selection%20and%20Consolidation",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref156",
+      "paper_url": "https://aclanthology.org/2025.acl-long.311/",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Neusym-rag%3A%20Hybrid%20neural%20symbolic%20retrieval%20with%20multiview%20structuring%20for%20pdf%20question%20answering",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref157",
+      "paper_url": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/10d35352a92bb40943bb4ed096a407b6-Abstract-Conference.html",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=AirQA%3A%20A%20Comprehensive%20QA%20Dataset%20for%20AI%20Research%20with%20Instance-Level%20Evaluation",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref5",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Spiqa%3A%20A%20dataset%20for%20multimodal%20question%20answering%20on%20scientific%20papers",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref12",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Docbench%3A%20A%20benchmark%20for%20evaluating%20llm-based%20document%20reading%20systems",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref14",
+      "paper_url": "https://aclanthology.org/2025.acl-long.57/",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Longdocurl%3A%20a%20comprehensive%20multimodal%20long%20document%20benchmark%20integrating%20understanding%2C%20reasoning%2C%20and%20locating",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref19",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=DocMMIR%3A%20A%20Framework%20for%20Document%20Multi-modal%20Information%20Retrieval",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref22",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Doclayllm%3A%20An%20efficient%20multi-modal%20extension%20of%20large%20language%20models%20for%20text-rich%20document%20understanding",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref23",
+      "paper_url": "https://arxiv.org/abs/2511.22521",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=DocVAL%3A%20Validated%20Chain-of-Thought%20Distillation%20for%20Grounded%20Document%20VQA",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref24",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Uni-DocRobust%3A%20Universal%20Plug-and-Play%20Robustness%20Enhancement%20for%20Multi-modal%20LLMs%20via%20Feature%20Restoration",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref28",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Visual%20document%20understanding%20and%20reasoning%3A%20A%20multi-agent%20collaboration%20framework%20with%20agent-wise%20adaptive%20test-time%20scaling",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref31",
+      "paper_url": "https://aclanthology.org/2025.findings-acl.1003/",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Towards%20storage-efficient%20visual%20document%20retrieval%3A%20An%20empirical%20study%20on%20reducing%20patch-level%20embeddings",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref39",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=M3RAG%3A%20Orchestrating%20Multi-agent%20Reasoning%20for%20Multi-hop%2C%20Multi-modal%20Understanding",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref43",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Resolving%20evidence%20sparsity%3A%20Agentic%20context%20engineering%20for%20long-document%20understanding",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref45",
+      "paper_url": "https://arxiv.org/abs/2511.20227",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Hkrag%3A%20Holistic%20knowledge%20retrieval-augmented%20generation%20over%20visually-rich%20documents",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref47",
+      "paper_url": "https://aclanthology.org/2026.acl-long.724/",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Lad-rag%3A%20Layout-aware%20dynamic%20rag%20for%20visually-rich%20document%20understanding",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref54",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Unidocvlm%3A%20Enhancing%20visual%20reasoning%20and%20document%20understanding%20for%20vlm%20via%20reinforcement%20learning",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref55",
+      "paper_url": "https://arxiv.org/abs/2604.09508",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=VISOR%3A%20Agentic%20Visual%20Retrieval-Augmented%20Generation%20via%20Iterative%20Search%20and%20Over-horizon%20Reasoning",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref57",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=TRACE%3A%20Traversal%20Retrieval-Augmented%20Chain%20of%20Evidence%20for%20Document%20Understanding",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref58",
+      "paper_url": "https://arxiv.org/abs/2608.00036",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=XL-DocBench%3A%20Benchmarking%20Evidence-Grounded%20Extra-Long%20Document%20Understanding",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref63",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Docslm%3A%20A%20small%20vision-language%20model%20for%20long%20multimodal%20document%20understanding",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref64",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=AdaNav%3A%20Query-Adaptive%20Multi-granularity%20Navigation%20for%20Long%20Document%20Understanding",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref65",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Flow-Based%20Page%20Unique%20Semantic%20Mapping%20Architecture%20for%20Document%20Visual%20Question%20Answering",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref66",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=ICDAR2026%20Competition%20on%20Multimodal%20Reasoning%20over%20Documents%20in%20Multiple%20Domains",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref69",
+      "paper_url": "https://arxiv.org/abs/2608.10628",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=InSight-doc%3A%20Agentic%20Visual%20Perception%20for%20Long-Document%20Understanding",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref73",
+      "paper_url": "https://arxiv.org/abs/2609.02486",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=ViSAR%3A%20Training-Free%20Adaptive-%20k%20Retrieval%20for%20Visual%20Document%20Question%20Answering",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref74",
+      "paper_url": "https://arxiv.org/abs/2602.15257",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=How%20to%20Train%20Your%20Long-Context%20Visual%20Document%20Model",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref77",
+      "paper_url": "https://arxiv.org/abs/2601.22055",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=G%5E%202-Reader%3A%20Dual%20Evolving%20Graphs%20for%20Multimodal%20Document%20QA",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref78",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Multimodal%20arxiv%3A%20A%20dataset%20for%20improving%20scientific%20comprehension%20of%20large%20vision-language%20models",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref80",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Hybrid-vector%20retrieval%20for%20visually%20rich%20documents%3A%20Combining%20single-vector%20efficiency%20and%20multi-vector%20accuracy",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref81",
+      "paper_url": "https://arxiv.org/abs/2608.02969",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Coverage%20Matters%3A%20MarginMerge%20for%20Compressing%20Multi-Vector%20Visual%20Document%20Retrievers",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref84",
+      "paper_url": "https://arxiv.org/abs/2604.07419",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=ReAlign%3A%20Optimizing%20the%20Visual%20Document%20Retriever%20with%20Reasoning-Guided%20Fine-Grained%20Alignment",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref85",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=LightSTAR%3A%20Efficient%20Visual%20Document%20Retrieval%20via%20Lightweight%20Selection%20with%20Vision-Adaptive%20Refinement",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref90",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=MM-BizRAG%3A%20Rethinking%20Multimodal%20Retrieval-Augmented%20Generation%20for%20General%20Purpose%20Enterprise%20Q%26A",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref91",
+      "paper_url": "https://arxiv.org/abs/2608.10636",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=DistilVDR%3A%20A%20Compact%20End-to-End%20Visual%20Document%20Retriever%20via%20Dual-Student%20Distillation",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref93",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=mplug-docowl%201.5%3A%20Unified%20structure%20learning%20for%20ocr-free%20document%20understanding",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref95",
+      "paper_url": "https://arxiv.org/abs/2606.26122",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=DocArena%3A%20Turning%20Raw%20Documents%20into%20Controllable%20Training%20Environments%20for%20Document%20Search%20Agents",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref97",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Attention%20as%20Selector%3A%20Unlocking%20VLM%20Attention%20for%20Long%20Document%20Page%20Retrieval",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref98",
+      "paper_url": "https://arxiv.org/abs/2606.16092",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=VinQA%3A%20Visual%20Elements%20Interleaved%20Long-form%20Answer%20Generation%20for%20Real-World%20Multimodal%20Document%20QA",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref99",
+      "paper_url": "https://arxiv.org/abs/2606.07252",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Constrained%20Dominant%20Sets%20for%20Multimodal%20Document%20Question%20Answering",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref100",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Uda%3A%20A%20benchmark%20suite%20for%20retrieval%20augmented%20generation%20in%20real-world%20document%20analysis",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref102",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=SCAN%3A%20Semantic%20Document%20Layout%20Analysis%20for%20Textual%20and%20Visual%20Retrieval-Augmented%20Generation",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref103",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=HiKEY%3A%20Hierarchical%20Multimodal%20Retrieval%20for%20Open-Domain%20Document%20Question%20Answering",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref105",
+      "paper_url": "https://openreview.net/pdf?id=W4b3v9jx1p",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Benchmarking%20retrieval-augmented%20multimomal%20generation%20for%20document%20question%20answering",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref106",
+      "paper_url": "https://arxiv.org/abs/2605.30027",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=DocRetriever%3A%20A%20Plug-and-Play%20Framework%20for%20Multimodal%20Document%20Retrieval%20with%20Comprehensive%20Benchmark",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref107",
+      "paper_url": "https://arxiv.org/abs/2606.29648",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Hybrid%20Retriever%20Evolution%20for%20Multimodal%20Document%20Reasoning%20Agents",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref108",
+      "paper_url": "https://arxiv.org/abs/2607.18917",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=TAP-RAG%3A%20Task-Aware%20Policy%20Control%20for%20Long-Document%20Multimodal%20Question%20Answering",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref109",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Finragbench-v%3A%20A%20benchmark%20for%20multimodal%20rag%20with%20visual%20citation%20in%20the%20financial%20domain",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref163",
+      "paper_url": "https://arxiv.org/abs/2606.04442",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=MemoryDocDataSet%3A%20A%20Benchmark%20for%20Joint%20Conversational%20Memory%20and%20Long%20Document%20Reasoning",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref164",
+      "paper_url": "https://arxiv.org/abs/2602.02474",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Memskill%3A%20Learning%20and%20evolving%20memory%20skills%20for%20self-evolving%20agents",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref165",
+      "paper_url": "https://arxiv.org/abs/2609.26457",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Recursive%20self-improvement%20of%20AI%20research%20agents",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref110",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Look%20as%20you%20think%3A%20Unifying%20reasoning%20and%20visual%20evidence%20attribution%20for%20verifiable%20document%20RAG%20via%20reinforcement%20learning",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref111",
+      "paper_url": "https://arxiv.org/abs/2605.01284",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Chain%20of%20Evidence%3A%20Pixel-Level%20Visual%20Attribution%20for%20Iterative%20Retrieval-Augmented%20Generation",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref112",
+      "paper_url": "https://arxiv.org/abs/2607.24651",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Evidence%20Attribution%20in%20Visual%20Document%20Understanding%20without%20Coordinates%20or%20Region%20Labels",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref114",
+      "paper_url": "https://arxiv.org/abs/2606.07235",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=FLOWREADER%3A%20Min-Cost%20Flow%20Optimization%20for%20Multi-Modal%20Long%20Document%20Q%26A",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref116",
+      "paper_url": "https://arxiv.org/abs/2609.29933",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=An%20Empirical%20Study%20of%20VLM%20Pipelines%20for%20Long-Document%20QA",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref119",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=M3Grounder%3A%20Mask-Based%20Multi-Span%20and%20Multi-Granular%20Grounding%20for%20Document%20QA",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref120",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=DoCoG%3A%20Mask-Based%20Multi-type%20Grounded%20Chain-of-Thought%20for%20Document%20QA",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref121",
+      "paper_url": "https://arxiv.org/abs/2609.13268",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Capability-Routed%20Visual%20Retrieval%20and%20Evidence%20Threading%20for%20Long-Context%20Document%20Question%20Answering",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref122",
+      "paper_url": "https://arxiv.org/abs/2608.25434",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=DocPC%3A%20Document-Level%20Visual%20Retrieval%20via%20Representative%20Page%20Composition",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref123",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Dual-Stream%20Adaptive%20Retrieval%20and%20Hierarchical%20Agent%20Collaboration%20for%20Document%20Visual%20QA",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref124",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=LayoutLLM%3A%20Large%20language%20model%20instruction%20tuning%20for%20visually%20rich%20document%20understanding",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref125",
+      "paper_url": "https://arxiv.org/abs/2605.11864",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Very%20efficient%20listwise%20multimodal%20reranking%20for%20long%20documents",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref128",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=ALDEN%3A%20Reinforcement%20Learning%20for%20Active%20Navigation%20and%20Evidence%20Gathering%20in%20Long%20Documents",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref129",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=SlideAgent%3A%20Hierarchical%20Agentic%20Framework%20for%20Multi-Page%20Visual%20Document%20Understanding",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref130",
+      "paper_url": "https://arxiv.org/abs/2605.22829",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=LFRAG%3A%20Layout-oriented%20Fine-grained%20Retrieval-Augmented%20Generation%20on%20Multimodal%20Document%20Understanding",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref131",
+      "paper_url": "https://arxiv.org/abs/2603.16455",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Evo-retriever%3A%20Llm-guided%20curriculum%20evolution%20with%20viewpoint-pathway%20collaboration%20for%20multimodal%20document%20retrieval",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref132",
+      "paper_url": "https://arxiv.org/abs/2608.15698",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=ConceptFormer%3A%20Learning%20Adaptive%20Latent%20Concepts%20for%20Query-Document%20Alignment%20in%20Visual%20Document%20Retrieval",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref133",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Are%20we%20on%20the%20right%20way%20to%20assess%20document%20retrieval-augmented%20generation%3F",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref135",
+      "paper_url": "https://arxiv.org/abs/2609.01316",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=MIDR%3A%20Enrichment-Augmented%20Indexing%20for%20Multimodal%20Document%20Retrieval",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref136",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=PaperScope%3A%20A%20Multi-Modal%20Multi-Document%20Benchmark%20for%20Agentic%20Deep%20Research%20Across%20Massive%20Scientific%20Papers",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref137",
+      "paper_url": "https://arxiv.org/abs/2607.04625",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Hierarchical%20Evidence-Driven%20Reasoning%20for%20Long%20Document%20Understanding",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref138",
+      "paper_url": "https://arxiv.org/abs/2602.10271",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Mldocrag%3A%20Multimodal%20long-context%20document%20retrieval%20augmented%20generation",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref139",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/html/Duan_Docopilot_Improving_Multimodal_Models_for_Document-Level_Understanding_CVPR_2025_paper.html",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Docopilot%3A%20Improving%20multimodal%20models%20for%20document-level%20understanding",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref140",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=RegionDoc-R1%3A%20Reinforcing%20Semantic%20Layout-Aware%20Learning%20for%20Document%20Understanding",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref141",
+      "paper_url": "https://arxiv.org/abs/2606.05749",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=MARDoc%3A%20A%20Memory-Aware%20Refinement%20Agent%20Framework%20for%20Multimodal%20Long%20Document%20QA",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref142",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Wukong%3A%20A%20large%20multimodal%20model%20for%20efficient%20long%20pdf%20reading%20with%20end-to-end%20sparse%20sampling",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref143",
+      "paper_url": "https://arxiv.org/abs/2608.14841",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=What%20the%20Reranker%20Sees%3A%20Multi-Aspect%20Page%20Annotation%20for%20Long-Document%20Multimodal%20Question%20Answering",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref144",
+      "paper_url": "https://arxiv.org/abs/2609.22562",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=AdaMerge%3A%20Tuning-Free%20Patch%20Compression%20for%20Multi-Vector%20Visual%20Document%20Retrieval",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref146",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Lang2act%3A%20Fine-grained%20visual%20reasoning%20through%20self-emergent%20linguistic%20toolchains",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref147",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=MDocRAG-RL%3A%20Empowering%20Multi-Modal%20Document%20RAG%20via%20Complex%20Visual%20Reasoning%20with%20Reinforcement%20Learning",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref151",
+      "paper_url": "https://arxiv.org/abs/2601.07329",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=BayesRAG%3A%20Probabilistic%20mutual%20evidence%20corroboration%20for%20multimodal%20retrieval-augmented%20generation",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref152",
+      "paper_url": "https://arxiv.org/abs/2507.20804",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Mmgraphrag%3A%20Bridging%20vision%20and%20language%20with%20interpretable%20multimodal%20knowledge%20graphs",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref153",
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Superrag%3A%20Beyond%20rag%20with%20layout-aware%20graph%20modeling",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref154",
+      "paper_url": "https://arxiv.org/abs/2504.17447",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Frag%3A%20Frame%20selection%20augmented%20generation%20for%20long%20video%20and%20long%20document%20understanding",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref155",
+      "paper_url": "https://arxiv.org/abs/2602.00585",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Exploring%20Information%20Seeking%20Agent%20Consolidation",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref158",
+      "paper_url": "https://arxiv.org/abs/2609.37349",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=TAEC%3A%20Trajectory-Aware%20Evidence%20Coordination%20for%20Multi-Step%20Visual%20RAG",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    }
+  ]
+}

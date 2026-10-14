@@ -1,0 +1,2969 @@
+{
+  "schema_version": 1,
+  "source": "references.bib",
+  "record_count": 165,
+  "records": [
+    {
+      "citekey": "tanaka2023slidevqa",
+      "entry_type": "article",
+      "fields": {
+        "title": "Slidevqa: A dataset for document visual question answering on multiple images",
+        "author": "Tanaka, Ryota and Nishida, Kyosuke and Nishida, Kosuke and Hasegawa, Taku and Saito, Itsumi and Saito, Kuniko",
+        "journal": "Proceedings of the AAAI Conference on Artificial Intelligence",
+        "volume": "37",
+        "number": "11",
+        "pages": "13636--13645",
+        "year": "2023"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Slidevqa%3A%20A%20dataset%20for%20document%20visual%20question%20answering%20on%20multiple%20images",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "tito2023hierarchical",
+      "entry_type": "article",
+      "fields": {
+        "title": "Hierarchical multimodal transformers for multipage docvqa",
+        "author": "Tito, Rubèn and Karatzas, Dimosthenis and Valveny, Ernest",
+        "journal": "Pattern Recognition",
+        "volume": "144",
+        "pages": "109834",
+        "year": "2023"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Hierarchical%20multimodal%20transformers%20for%20multipage%20docvqa",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ma2024mmlongbench",
+      "entry_type": "article",
+      "fields": {
+        "title": "Mmlongbench-doc: Benchmarking long-context document understanding with visualizations",
+        "author": "Ma, Yubo and Zang, Yuhang and Chen, Liangyu and Chen, Meiqi and Jiao, Yizhu and Li, Xinze and Lu, Xinyuan and Liu, Ziyu and Ma, Yan and Dong, Xiaoyi and Zhang, Pan and Pan, Liangming and Jiang, Yu-Gang and Wang, Jiaqi and Cao, Yixin and Sun, Aixin",
+        "journal": "Advances in Neural Information Processing Systems",
+        "volume": "37",
+        "pages": "95963--96010",
+        "year": "2024"
+      },
+      "paper_url": "https://papers.nips.cc/paper_files/paper/2024/hash/ae0e43289bffea0c1fa34633fc608e92-Abstract-Datasets_and_Benchmarks_Track.html",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Mmlongbench-doc%3A%20Benchmarking%20long-context%20document%20understanding%20with%20visualizations",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ma2024unifying",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Unifying multimodal retrieval via document screenshot embedding",
+        "author": "Ma, Xueguang and Lin, Sheng-Chieh and Li, Minghan and Chen, Wenhu and Lin, Jimmy",
+        "booktitle": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
+        "pages": "6492--6505",
+        "year": "2024"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Unifying%20multimodal%20retrieval%20via%20document%20screenshot%20embedding",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "yu2025visrag",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Visrag: Vision-based retrieval-augmented generation on multi-modality documents",
+        "author": "Yu, Shi and Tang, Chaoyue and Xu, Bokai and Cui, Junbo and Ran, Junhao and Yan, Yukun and Liu, Zhenghao and Wang, Shuo and Han, Xu and Liu, Zhiyuan and Sun, Maosong",
+        "booktitle": "International Conference on Learning Representations",
+        "volume": "2025",
+        "pages": "21074--21098",
+        "year": "2025"
+      },
+      "paper_url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/3640a1997a4c9571cea9db2c82e1fc35-Abstract-Conference.html",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Visrag%3A%20Vision-based%20retrieval-augmented%20generation%20on%20multi-modality%20documents",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "chen2024svrag",
+      "entry_type": "article",
+      "fields": {
+        "title": "SV-RAG: LoRA-contextualizing adaptation of MLLMs for long document understanding",
+        "author": "Chen, Jian and Zhang, Ruiyi and Zhou, Yufan and Yu, Tong and Dernoncourt, Franck and Gu, Jiuxiang and Rossi, Ryan A. and Chen, Changyou and Sun, Tong",
+        "journal": "arXiv preprint arXiv:2411.01106",
+        "year": "2024"
+      },
+      "paper_url": "https://arxiv.org/abs/2411.01106",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=SV-RAG%3A%20LoRA-contextualizing%20adaptation%20of%20MLLMs%20for%20long%20document%20understanding",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "cho2025m3docvqa",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "M3docvqa: Multi-modal multi-page multi-document understanding",
+        "author": "Cho, Jaemin and Mahata, Debanjan and Irsoy, Ozan and He, Yujie and Bansal, Mohit",
+        "booktitle": "2025 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)",
+        "pages": "6237--6247",
+        "year": "2025",
+        "organization": "IEEE"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=M3docvqa%3A%20Multi-modal%20multi-page%20multi-document%20understanding",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "wang2026vragrl",
+      "entry_type": "article",
+      "fields": {
+        "title": "Vrag-rl: Empower vision-perception-based rag for visually rich information understanding via iterative reasoning with reinforcement learning",
+        "author": "Wang, Qiuchen and Ding, Ruixue and Zeng, Yu and Chen, Zehui and Chen, Lin and Wang, Shihang and Xie, Pengjun and Huang, Fei and Zhao, Feng",
+        "journal": "Advances in Neural Information Processing Systems",
+        "volume": "38",
+        "pages": "57133--57160",
+        "year": "2026"
+      },
+      "paper_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/529b876b5d87f997e98ed925a3ce9f01-Abstract-Conference.html",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Vrag-rl%3A%20Empower%20vision-perception-based%20rag%20for%20visually%20rich%20information%20understanding%20via%20iterative%20reasoning%20with%20reinforcement%20learning",
+      "link_provenance": {
+        "source": "reference_sources.json:scholarResultUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "mathew2021docvqa",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Docvqa: A dataset for vqa on document images",
+        "author": "Mathew, Minesh and Karatzas, Dimosthenis and Jawahar, C. V.",
+        "booktitle": "2021 IEEE Winter Conference on Applications of Computer Vision (WACV)",
+        "pages": "2199--2208",
+        "year": "2021",
+        "organization": "IEEE"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Docvqa%3A%20A%20dataset%20for%20vqa%20on%20document%20images",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "huang2022layoutlmv3",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Layoutlmv3: Pre-training for document ai with unified text and image masking",
+        "author": "Huang, Yupan and Lv, Tengchao and Cui, Lei and Lu, Yutong and Wei, Furu",
+        "booktitle": "Proceedings of the 30th ACM international conference on multimedia",
+        "pages": "4083--4091",
+        "year": "2022"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Layoutlmv3%3A%20Pre-training%20for%20document%20ai%20with%20unified%20text%20and%20image%20masking",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "gao2026scaling",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Scaling beyond context: A survey of multimodal retrieval-augmented generation for document understanding",
+        "author": "Gao, Sensen and Zhao, Shanshan and Jiang, Xu and Duan, Lunhao and Chng, Yong Xien and Chen, Qing-Guo and Luo, Weihua and Zhang, Kaifu and Bian, Jia-Wang and Gong, Mingming",
+        "booktitle": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "pages": "4458--4489",
+        "year": "2026"
+      },
+      "paper_url": "https://aclanthology.org/2026.acl-long.204/",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Scaling%20beyond%20context%3A%20A%20survey%20of%20multimodal%20retrieval-augmented%20generation%20for%20document%20understanding",
+      "link_provenance": {
+        "source": "reference_sources.json:scholarResultUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "yan2026unlocking",
+      "entry_type": "article",
+      "fields": {
+        "title": "Unlocking Multimodal Document Intelligence: From Current Triumphs to Future Frontiers of Visual Document Retrieval",
+        "author": "Yan, Yibo and Huo, Jiahao and Feng, Guanbo and Ou, Mingdong and Cao, Yi and Zou, Xin and Liu, Shuliang and Lyu, Yuanhuiyi and Huang, Yu and Li, Jungang and Zheng, Kening and Zheng, Xu and Yu, Philip S. and Kwok, James and Hu, Xuming",
+        "journal": "arXiv preprint arXiv:2602.19961",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2602.19961",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Unlocking%20Multimodal%20Document%20Intelligence%3A%20From%20Current%20Triumphs%20to%20Future%20Frontiers%20of%20Visual%20Document%20Retrieval",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ding2026survey",
+      "entry_type": "article",
+      "fields": {
+        "title": "A survey on MLLM-based visually rich document understanding: Methods, challenges, and emerging trends",
+        "author": "Ding, Yihao and Luo, Siwen and Dai, Yue and Jiang, Yanbei and Li, Zechuan and Sun, Qiang and Martin, Geoffrey and Liu, Wei and Peng, Yifan",
+        "journal": "Findings of the Association for Computational Linguistics: ACL 2026",
+        "pages": "13319--13340",
+        "year": "2026"
+      },
+      "paper_url": "https://aclanthology.org/2026.findings-acl.652/",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=A%20survey%20on%20MLLM-based%20visually%20rich%20document%20understanding%3A%20Methods%2C%20challenges%2C%20and%20emerging%20trends",
+      "link_provenance": {
+        "source": "reference_sources.json:scholarResultUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "barboule2025survey",
+      "entry_type": "article",
+      "fields": {
+        "title": "Survey on question answering over visually rich documents: Methods, challenges, and trends",
+        "author": "Barboule, Camille and Piwowarski, Benjamin and Chabot, Yoan",
+        "journal": "arXiv preprint arXiv:2501.02235",
+        "year": "2025"
+      },
+      "paper_url": "https://arxiv.org/abs/2501.02235",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Survey%20on%20question%20answering%20over%20visually%20rich%20documents%3A%20Methods%2C%20challenges%2C%20and%20trends",
+      "link_provenance": {
+        "source": "reference_sources.json:scholarResultUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "dong2026docresearcher",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Doc-researcher: A unified system for multimodal document parsing and deep research",
+        "author": "Dong, Kuicai and Huang, Shurui and Ye, Fangda and Han, Wei and Zhang, Zhi and Li, Dexun and Li, Wenjun and Yang, Qu and Wang, Gang and Wang, Yichao and Zhang, Chen and Liu, Yong",
+        "booktitle": "Proceedings of the ACM Web Conference 2026",
+        "pages": "2349--2360",
+        "year": "2026"
+      },
+      "paper_url": "https://doi.org/10.1145/3774904.3792599",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Doc-researcher%3A%20A%20unified%20system%20for%20multimodal%20document%20parsing%20and%20deep%20research",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref3",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Document understanding dataset and evaluation (dude)",
+        "author": "Van Landeghem, Jordy and Tito, Rubèn and Borchmann, Łukasz and Pietruszka, Michał and Joziak, Pawel and Powalski, Rafal and Jurkiewicz, Dawid and Coustaty, Mickael and Anckaert, Bertrand and Valveny, Ernest and Blaschko, Matthew and Moens, Sien and Stanislawek, Tomasz",
+        "booktitle": "Proceedings of the IEEE/CVF international conference on computer vision",
+        "year": "2023",
+        "pages": "19528--19540"
+      },
+      "paper_url": "https://openaccess.thecvf.com/content/ICCV2023/html/Van_Landeghem_Document_Understanding_Dataset_and_Evaluation_DUDE_ICCV_2023_paper.html",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Document%20understanding%20dataset%20and%20evaluation%20%28dude%29",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref7",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Colpali: Efficient document retrieval with vision language models",
+        "author": "Faysse, Manuel and Sibille, Hugues and Wu, Tony and Omrani, Bilel and Viaud, Gautier and Hudelot, Céline and Colombo, Pierre",
+        "booktitle": "International Conference on Learning Representations",
+        "year": "2025",
+        "volume": "2025",
+        "pages": "61424--61449"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Colpali%3A%20Efficient%20document%20retrieval%20with%20vision%20language%20models",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref10",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Visdom: Multi-document qa with visually rich elements using multimodal retrieval-augmented generation",
+        "author": "Suri, Manan and Mathur, Puneet and Dernoncourt, Franck and Goswami, Kanika and Rossi, Ryan A. and Manocha, Dinesh",
+        "booktitle": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+        "year": "2025",
+        "pages": "6088--6109"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Visdom%3A%20Multi-document%20qa%20with%20visually%20rich%20elements%20using%20multimodal%20retrieval-augmented%20generation",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref11",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Vdocrag: Retrieval-augmented generation over visually-rich documents",
+        "author": "Tanaka, Ryota and Iki, Taichi and Hasegawa, Taku and Nishida, Kyosuke and Saito, Kuniko and Suzuki, Jun",
+        "booktitle": "2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+        "year": "2025",
+        "pages": "24827--24837",
+        "organization": "IEEE"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Vdocrag%3A%20Retrieval-augmented%20generation%20over%20visually-rich%20documents",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref13",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Visa: Retrieval augmented generation with visual source attribution",
+        "author": "Ma, Xueguang and Zhuang, Shengyao and Koopman, Bevan and Zuccon, Guido and Chen, Wenhu and Lin, Jimmy",
+        "booktitle": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "year": "2025",
+        "pages": "30154--30169"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Visa%3A%20Retrieval%20augmented%20generation%20with%20visual%20source%20attribution",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref15",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Dogr: Towards versatile visual document grounding and referring",
+        "author": "Zhou, Yinan and Chen, Yuxin and Lin, Haokun and Wu, Yichen and Yang, Shuyu and Qi, Zhongang and Ma, Chen and Zhu, Li",
+        "booktitle": "2025 IEEE/CVF International Conference on Computer Vision (ICCV)",
+        "year": "2025",
+        "pages": "3596--3606",
+        "organization": "IEEE"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Dogr%3A%20Towards%20versatile%20visual%20document%20grounding%20and%20referring",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref16",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "M-longdoc: A benchmark for multimodal super-long document understanding and a retrieval-aware tuning framework",
+        "author": "Chia, Yew Ken and Cheng, Liying and Chan, Hou Pong and Song, Maojia and Liu, Chaoqun and Aljunied, Mahani and Poria, Soujanya and Bing, Lidong",
+        "booktitle": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+        "year": "2025",
+        "pages": "9244--9261"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=M-longdoc%3A%20A%20benchmark%20for%20multimodal%20super-long%20document%20understanding%20and%20a%20retrieval-aware%20tuning%20framework",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref17",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "MMDocIR: Benchmarking multimodal retrieval for long documents",
+        "author": "Dong, Kuicai and Chang, Yujing and Deik, Derrick Goh Xin and Li, Dexun and Tang, Ruiming and Liu, Yong",
+        "booktitle": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+        "year": "2025",
+        "pages": "30959--30993"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=MMDocIR%3A%20Benchmarking%20multimodal%20retrieval%20for%20long%20documents",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref18",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Vidorag: Visual document retrieval-augmented generation via dynamic iterative reasoning agents",
+        "author": "Wang, Qiuchen and Ding, Ruixue and Chen, Zehui and Wu, Weiqi and Wang, Shihang and Xie, Pengjun and Zhao, Feng",
+        "booktitle": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+        "year": "2025",
+        "pages": "9124--9145"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Vidorag%3A%20Visual%20document%20retrieval-augmented%20generation%20via%20dynamic%20iterative%20reasoning%20agents",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref25",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Docvlm: Make your vlm an efficient reader",
+        "author": "Nacson, Mor Shpigel and Aberdam, Aviad and Ganz, Roy and Ben Avraham, Elad and Golts, Alona and Kittenplon, Yair and Mazor, Shai and Litman, Ron",
+        "booktitle": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+        "year": "2025",
+        "pages": "29005--29015"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Docvlm%3A%20Make%20your%20vlm%20an%20efficient%20reader",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref26",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "mplug-docowl2: High-resolution compressing for ocr-free multi-page document understanding",
+        "author": "Hu, Anwen and Xu, Haiyang and Zhang, Liang and Ye, Jiabo and Yan, Ming and Zhang, Ji and Jin, Qin and Huang, Fei and Zhou, Jingren",
+        "booktitle": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "year": "2025",
+        "pages": "5817--5834"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=mplug-docowl2%3A%20High-resolution%20compressing%20for%20ocr-free%20multi-page%20document%20understanding",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref27",
+      "entry_type": "article",
+      "fields": {
+        "title": "Docr1: Evidence page-guided grpo for multi-page document understanding",
+        "author": "Xiong, Junyu and Wang, Yonghui and Zhao, Weichao and Liu, Chenyu and Yin, Bing and Zhou, Wengang and Li, Houqiang",
+        "journal": "Proceedings of the AAAI Conference on Artificial Intelligence",
+        "year": "2026",
+        "volume": "40",
+        "number": "13",
+        "pages": "11178--11186"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Docr1%3A%20Evidence%20page-guided%20grpo%20for%20multi-page%20document%20understanding",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref29",
+      "entry_type": "article",
+      "fields": {
+        "title": "DocSeeker: Structured visual reasoning with evidence grounding for long document understanding",
+        "author": "Yan, Hao and Liu, Yuliang and Liu, Xingchen and Zhang, Yuyi and Liao, Minghui and Wu, Jihao and Chen, Wei and Bai, Xiang",
+        "journal": "arXiv preprint arXiv:2604.12812",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2604.12812",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=DocSeeker%3A%20Structured%20visual%20reasoning%20with%20evidence%20grounding%20for%20long%20document%20understanding",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref30",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Doc-react: Multi-page heterogeneous document question-answering",
+        "author": "Wu, Junda and Xia, Yu and Yu, Tong and Chen, Xiang and Harsha, Sai Sree and Maharaj, Akash V. and Zhang, Ruiyi and Bursztyn, Victor and Kim, Sungchul and Rossi, Ryan A. and McAuley, Julian and Li, Yunyao and Sinha, Ritwik",
+        "booktitle": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "year": "2025",
+        "pages": "67--78"
+      },
+      "paper_url": "https://aclanthology.org/2025.acl-short.6/",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Doc-react%3A%20Multi-page%20heterogeneous%20document%20question-answering",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref32",
+      "entry_type": "article",
+      "fields": {
+        "title": "Mdocagent: A multi-modal multi-agent framework for document understanding",
+        "author": "Han, Siwei and Xia, Peng and Zhang, Ruiyi and Sun, Tong and Li, Yun and Zhu, Hongtu and Yao, Huaxiu",
+        "journal": "arXiv preprint arXiv:2503.13964",
+        "year": "2025"
+      },
+      "paper_url": "https://arxiv.org/abs/2503.13964",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Mdocagent%3A%20A%20multi-modal%20multi-agent%20framework%20for%20document%20understanding",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref34",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "SimpleDoc: Multi‐Modal Document Understanding with Dual‐Cue Page Retrieval and Iterative Refinement",
+        "author": "Jain, Chelsi and Wu, Yiran and Zeng, Yifan and Liu, Jiale and Dai, Shengyu and Shao, Zhenwen and Wu, Qingyun and Wang, Huazheng",
+        "booktitle": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+        "year": "2025",
+        "pages": "28398--28415"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=SimpleDoc%3A%20Multi%E2%80%90Modal%20Document%20Understanding%20with%20Dual%E2%80%90Cue%20Page%20Retrieval%20and%20Iterative%20Refinement",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref42",
+      "entry_type": "article",
+      "fields": {
+        "title": "Rag-anything: All-in-one rag framework",
+        "author": "Guo, Zirui and Ren, Xubin and Xu, Lingrui and Zhang, Jiahao and Huang, Chao",
+        "journal": "arXiv preprint arXiv:2510.12323",
+        "year": "2025"
+      },
+      "paper_url": "https://arxiv.org/abs/2510.12323",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Rag-anything%3A%20All-in-one%20rag%20framework",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref44",
+      "entry_type": "article",
+      "fields": {
+        "title": "DocPrune: Efficient Document Question Answering via Background, Question, and Comprehension-aware Token Pruning",
+        "author": "Choi, Joonmyung and Lee, Sanghyeok and Kim, Jongha and Kim, Sehyung and Ko, Dohwan and Kil, Jihyung and Kim, Hyunwoo J.",
+        "journal": "arXiv preprint arXiv:2604.22281",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2604.22281",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=DocPrune%3A%20Efficient%20Document%20Question%20Answering%20via%20Background%2C%20Question%2C%20and%20Comprehension-aware%20Token%20Pruning",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref46",
+      "entry_type": "article",
+      "fields": {
+        "title": "CogDoc: Towards unified thinking in documents",
+        "author": "Xu, Qixin and Wang, Haozhe and Liu, Che and Lin, Fangzhen and Chen, Wenhu",
+        "journal": "arXiv preprint arXiv:2512.12658",
+        "year": "2025"
+      },
+      "paper_url": "https://arxiv.org/abs/2512.12658",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=CogDoc%3A%20Towards%20unified%20thinking%20in%20documents",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref48",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Doclens: A tool-augmented multi-agent framework for long visual document understanding",
+        "author": "Zhu, Dawei and Meng, Rui and Chen, Jiefeng and Li, Sujian and Pfister, Tomas and Yoon, Jinsung",
+        "booktitle": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "year": "2026",
+        "pages": "26804--26829"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Doclens%3A%20A%20tool-augmented%20multi-agent%20framework%20for%20long%20visual%20document%20understanding",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref49",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "MAB-DQA: Addressing query aspect importance in document question answering with multi-armed bandits",
+        "author": "Xiang, Yixin and Ma, Yunshan and Du, Xiaoyu and Chen, Yibing and Zhang, Yanxin and Tang, Jinhui",
+        "booktitle": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "year": "2026",
+        "pages": "22973--22992"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=MAB-DQA%3A%20Addressing%20query%20aspect%20importance%20in%20document%20question%20answering%20with%20multi-armed%20bandits",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref50",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Doc-V*: Coarse-to-Fine Interactive Visual Reasoning for Multi-Page Document VQA",
+        "author": "Zheng, Yuanlei and Fu, Pei and Li, Hang and Wang, Ziyang and Zhang, Yuyi and Ruan, Wenyu and Zhang, Xiaojin and Wei, Zhongyu and Luo, Zhenbo and Luan, Jian and Chen, Wei and Bai, Xiang",
+        "booktitle": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "year": "2026",
+        "pages": "45901--45923"
+      },
+      "paper_url": "https://aclanthology.org/2026.acl-long.2129/",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Doc-V%2A%3A%20Coarse-to-Fine%20Interactive%20Visual%20Reasoning%20for%20Multi-Page%20Document%20VQA",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref51",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "MM-Doc-R1: Training Agents for Long Document Visual Question Answering through Multi-turn Reinforcement Learning",
+        "author": "Lin, Jiahang and Hu, Kai and Wang, Binghai and Zhou, Yuhao and Xi, Zhiheng and Guo, Honglin and Liu, Shichun and Wang, Junzhe and Dou, Shihan and Zhou, Enyu and Yan, Hang and Han, Zhenhua and Gui, Tao and Zhang, Qi and Huang, Xuanjing",
+        "booktitle": "Findings of the Association for Computational Linguistics: ACL 2026",
+        "year": "2026",
+        "pages": "29770--29783"
+      },
+      "paper_url": "https://aclanthology.org/2026.findings-acl.1488/",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=MM-Doc-R1%3A%20Training%20Agents%20for%20Long%20Document%20Visual%20Question%20Answering%20through%20Multi-turn%20Reinforcement%20Learning",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref52",
+      "entry_type": "article",
+      "fields": {
+        "title": "Docdancer: Towards agentic document-grounded information seeking",
+        "author": "Zhang, Qintong and Lv, Xinjie and Wu, Jialong and Li, Baixuan and Tao, Zhengwei and Yan, Guochen and Zhang, Huanyao and Wang, Bin and Xu, Jiahao and Mi, Haitao and Zhang, Wentao",
+        "journal": "arXiv preprint arXiv:2601.05163",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2601.05163",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Docdancer%3A%20Towards%20agentic%20document-grounded%20information%20seeking",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref53",
+      "entry_type": "article",
+      "fields": {
+        "title": "VimRAG: Navigating Massive Visual Context in Retrieval-Augmented Generation via Multimodal Memory Graph",
+        "author": "Wang, Qiuchen and Wang, Shihang and Zeng, Yu and Zhang, Qiang and Zhang, Fanrui and Guo, Zhuoning and Zhang, Bosi and Huang, Wenxuan and Chen, Lin and Chen, Zehui and Xie, Pengjun and Ding, Ruixue",
+        "journal": "arXiv preprint arXiv:2602.12735",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2602.12735",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=VimRAG%3A%20Navigating%20Massive%20Visual%20Context%20in%20Retrieval-Augmented%20Generation%20via%20Multimodal%20Memory%20Graph",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref56",
+      "entry_type": "article",
+      "fields": {
+        "title": "MAGE-RAG: Multigranular Adaptive Graph Evidence for Agentic Multimodal RAG in Long-Document QA",
+        "author": "Zuo, Yilong and Li, Xunkai and Yuan, Jing and Dai, Qiangqiang and Qin, Hongchao and Li, Ronghua",
+        "journal": "arXiv preprint arXiv:2606.15906",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2606.15906",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=MAGE-RAG%3A%20Multigranular%20Adaptive%20Graph%20Evidence%20for%20Agentic%20Multimodal%20RAG%20in%20Long-Document%20QA",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref59",
+      "entry_type": "article",
+      "fields": {
+        "title": "Doc-REFRAG: Rethinking Multimodal Document Retrieval-Augmented Generation",
+        "author": "Hu, Ruofan and Xu, Shengyang and Hong, Minjie and Yang, Xiaoda and Zhou, Sashuai and Lei, Ke and Jin, Tao and Zhao, Zhou",
+        "journal": "arXiv preprint arXiv:2608.30163",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2608.30163",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Doc-REFRAG%3A%20Rethinking%20Multimodal%20Document%20Retrieval-Augmented%20Generation",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref60",
+      "entry_type": "article",
+      "fields": {
+        "title": "DocTrace: Towards Traceable Long Document VQA via Hierarchical Evidence Graph Reasoning",
+        "author": "Xiang, Le and Guan, Zhicheng and Chen, Hong and Lin, Xiaocong and Lei, Zhenghua and Hu, Teng and He, Bolei and Zeng, Long",
+        "journal": "arXiv preprint arXiv:2608.03292",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2608.03292",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=DocTrace%3A%20Towards%20Traceable%20Long%20Document%20VQA%20via%20Hierarchical%20Evidence%20Graph%20Reasoning",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref62",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Infographicvqa",
+        "author": "Mathew, Minesh and Bagal, Viraj and Tito, Rubèn and Karatzas, Dimosthenis and Valveny, Ernest and Jawahar, C. V.",
+        "booktitle": "2022 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
+        "year": "2022",
+        "pages": "2582--2591",
+        "publisher": "IEEE"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Infographicvqa",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref67",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Ocr-free document understanding transformer",
+        "author": "Kim, Geewook and Hong, Teakgyu and Yim, Moonbin and Nam, JeongYeon and Park, Jinyoung and Yim, Jinyeong and Hwang, Wonseok and Yun, Sangdoo and Han, Dongyoon and Park, Seunghyun",
+        "booktitle": "European Conference on Computer Vision",
+        "year": "2022",
+        "pages": "498--517",
+        "publisher": "Springer Nature Switzerland",
+        "address": "Cham"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Ocr-free%20document%20understanding%20transformer",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref70",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "SCoPE VLM: Selective Context Processing for Efficient Document Navigation in Vision-Language Models",
+        "author": "Lim, Gyubeum and Koo, Yemo and Madisetti, Vijay Krishna",
+        "booktitle": "Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "year": "2026",
+        "pages": "95--140"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=SCoPE%20VLM%3A%20Selective%20Context%20Processing%20for%20Efficient%20Document%20Navigation%20in%20Vision-Language%20Models",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref83",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Vidore v3: A comprehensive evaluation of retrieval augmented generation in complex real-world scenarios",
+        "author": "Loison, António and Macé, Quentin and Edy, Antoine and Xing, Victor and Balough, Tom and Moreira, Gabriel de Souza P. and Liu, Bo and Faysse, Manuel and Hudelot, Céline and Viaud, Gautier",
+        "booktitle": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "year": "2026",
+        "pages": "16570--16600"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Vidore%20v3%3A%20A%20comprehensive%20evaluation%20of%20retrieval%20augmented%20generation%20in%20complex%20real-world%20scenarios",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref86",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Towards complex document understanding by discrete reasoning",
+        "author": "Zhu, Fengbin and Lei, Wenqiang and Feng, Fuli and Wang, Chao and Zhang, Haozhou and Chua, Tat-Seng",
+        "booktitle": "Proceedings of the 30th ACM International Conference on Multimedia",
+        "year": "2022",
+        "pages": "4857--4866"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Towards%20complex%20document%20understanding%20by%20discrete%20reasoning",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref87",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Unifying vision, text, and layout for universal document processing",
+        "author": "Tang, Zineng and Yang, Ziyi and Wang, Guoxin and Fang, Yuwei and Liu, Yang and Zhu, Chenguang and Zeng, Michael and Zhang, Cha and Bansal, Mohit",
+        "booktitle": "2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+        "year": "2023",
+        "pages": "19254--19264",
+        "publisher": "IEEE"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Unifying%20vision%2C%20text%2C%20and%20layout%20for%20universal%20document%20processing",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref88",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Real-mm-rag: A real-world multi-modal retrieval benchmark",
+        "author": "Wasserman, Navve and Pony, Roi and Naparstek, Oshri and Goldfarb, Adi Raz and Schwartz, Eli and Barzelay, Udi and Karlinsky, Leonid",
+        "booktitle": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "year": "2025",
+        "pages": "31660--31683"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Real-mm-rag%3A%20A%20real-world%20multi-modal%20retrieval%20benchmark",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref101",
+      "entry_type": "article",
+      "fields": {
+        "title": "RegionRAG: Region-level Retrieval-Augmented Generation for Visual Document Understanding",
+        "author": "Li, Yinglu and Lu, Zhiying and Liu, Zhihang and Sun, Yiwei and Liu, Chuanbin and Xie, Hongtao",
+        "journal": "Proceedings of the AAAI Conference on Artificial Intelligence",
+        "year": "2026",
+        "volume": "40",
+        "number": "8",
+        "pages": "6662--6670"
+      },
+      "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/37597",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=RegionRAG%3A%20Region-level%20Retrieval-Augmented%20Generation%20for%20Visual%20Document%20Understanding",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref89",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "RobustVisRAG: Causality-Aware Vision-Based Retrieval-Augmented Generation under Visual Degradations",
+        "author": "Chen, I. and Liu, Yu-Wei and Wu, Tse-Yu and Chiang, Yu-Chien and Yang, Jen-Chieh and Chen, Wei-Ting",
+        "booktitle": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+        "year": "2026",
+        "pages": "40802--40811"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=RobustVisRAG%3A%20Causality-Aware%20Vision-Based%20Retrieval-Augmented%20Generation%20under%20Visual%20Degradations",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref92",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Ureader: Universal ocr-free visually-situated language understanding with multimodal large language model",
+        "author": "Ye, Jiabo and Hu, Anwen and Xu, Haiyang and Ye, Qinghao and Yan, Ming and Xu, Guohai and Li, Chenliang and Tian, Junfeng and Qian, Qi and Zhang, Ji and Jin, Qin and He, Liang and Lin, Xin and Huang, Fei",
+        "booktitle": "Findings of the Association for Computational Linguistics: EMNLP 2023",
+        "year": "2023",
+        "pages": "2841--2858"
+      },
+      "paper_url": "https://aclanthology.org/2023.findings-emnlp.187/",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Ureader%3A%20Universal%20ocr-free%20visually-situated%20language%20understanding%20with%20multimodal%20large%20language%20model",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref94",
+      "entry_type": "article",
+      "fields": {
+        "title": "MoDora: Tree-Based Semi-Structured Document Analysis System",
+        "author": "Xu, Bangrui and Yao, Qihang and Tang, Zirui and Zhou, Xuanhe and He, Yeye and Yu, Shihan and Xu, Qianqian and Wang, Bin and Li, Guoliang and He, Conghui and others",
+        "journal": "Proceedings of the ACM on Management of Data",
+        "volume": "4",
+        "number": "3 (SIGMOD)",
+        "pages": "1--26",
+        "year": "2026",
+        "publisher": "ACM New York, NY, USA"
+      },
+      "paper_url": "https://arxiv.org/abs/2602.23061",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=MoDora%3A%20Tree-Based%20Semi-Structured%20Document%20Analysis%20System",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref96",
+      "entry_type": "article",
+      "fields": {
+        "title": "AWM: Answerable Working Memory for Long-Document VQA Agents",
+        "author": "Zhou, Dongzhuoran and Zhu, Yuqicheng and Liu, Yule and Yang, Zhen and Lu, Rui and Dong, Yuxiao and Tang, Jie and Kharlamov, Evgeny",
+        "journal": "arXiv preprint arXiv:2608.25618",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2608.25618",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=AWM%3A%20Answerable%20Working%20Memory%20for%20Long-Document%20VQA%20Agents",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref104",
+      "entry_type": "article",
+      "fields": {
+        "title": "Agenticocr: Parsing only what you need for efficient retrieval-augmented generation",
+        "author": "Wang, Zhengren and Ma, Dongsheng and Zhong, Huaping and Li, Jiayu and Zhang, Wentao and Wang, Bin and He, Conghui",
+        "journal": "arXiv preprint arXiv:2602.24134",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2602.24134",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Agenticocr%3A%20Parsing%20only%20what%20you%20need%20for%20efficient%20retrieval-augmented%20generation",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref113",
+      "entry_type": "article",
+      "fields": {
+        "title": "DocScope: Benchmarking Verifiable Reasoning for Trustworthy Long-Document Understanding",
+        "author": "Feng, Xiang and Zhou, Jiawei and Huang, Zhangfeng and Wang, Kewei and Ye, Shanshan and Hu, Jinxin and Chen, Zulong and Luo, Yong and Zhang, Jing",
+        "journal": "arXiv preprint arXiv:2605.08888",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2605.08888",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=DocScope%3A%20Benchmarking%20Verifiable%20Reasoning%20for%20Trustworthy%20Long-Document%20Understanding",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref115",
+      "entry_type": "article",
+      "fields": {
+        "title": "EviProp: Seeded Relevance Diffusion on Chunk-Page Graphs for Long Multimodal Document Retrieval",
+        "author": "Zhang, Hongwei and Wang, Xiaoman and Ling, Zehui and Zhu, Ruicheng and Zhang, Yue and Cai, Pinlong and Shen, Fuke and Shi, Botian and Wei, Tongquan and Yan, Guohang",
+        "journal": "arXiv preprint arXiv:2606.08979",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2606.08979",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=EviProp%3A%20Seeded%20Relevance%20Diffusion%20on%20Chunk-Page%20Graphs%20for%20Long%20Multimodal%20Document%20Retrieval",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref117",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Gram: Global reasoning for multi-page vqa",
+        "author": "Blau, Tsachi and Fogel, Sharon and Ronen, Roi and Golts, Alona and Ganz, Roy and Ben Avraham, Elad and Aberdam, Aviad and Tsiper, Shahar and Litman, Ron",
+        "booktitle": "Proceedings of the IEEE/CVF conference on computer vision and pattern recognition",
+        "year": "2024",
+        "pages": "15598--15607"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Gram%3A%20Global%20reasoning%20for%20multi-page%20vqa",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref118",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Cream: coarse-to-fine retrieval and multi-modal efficient tuning for document vqa",
+        "author": "Zhang, Jinxu and Yu, Yongqi and Zhang, Yu",
+        "booktitle": "Proceedings of the 32nd ACM International Conference on Multimedia",
+        "year": "2024",
+        "pages": "925--934"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Cream%3A%20coarse-to-fine%20retrieval%20and%20multi-modal%20efficient%20tuning%20for%20document%20vqa",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref126",
+      "entry_type": "article",
+      "fields": {
+        "title": "Can Retrieval Heads See Images? Multimodal Retrieval Heads in Long-Context Vision-Language Models",
+        "author": "Li, Aaron Branson Cigres and Wang, Zhaowei and Zhao, Yu and Du, Yiming and Li, Haobo and Ren, Xiyu and Wong, Ginny and See, Simon and Luo, Lishu and Duan, Haodong and Minervini, Pasquale and Song, Yangqiu",
+        "journal": "arXiv preprint arXiv:2605.27243",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2605.27243",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Can%20Retrieval%20Heads%20See%20Images%3F%20Multimodal%20Retrieval%20Heads%20in%20Long-Context%20Vision-Language%20Models",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref127",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "LMS-Retrieval: Layout-Aware, Modality-Aware, Structure-Aware Document Retrieval",
+        "author": "Qin, Man and French, Tim and Liu, Wei",
+        "booktitle": "International Conference on Document Analysis and Recognition",
+        "year": "2026",
+        "pages": "123--139",
+        "publisher": "Springer Nature Switzerland",
+        "address": "Cham"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=LMS-Retrieval%3A%20Layout-Aware%2C%20Modality-Aware%2C%20Structure-Aware%20Document%20Retrieval",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref35",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Molorag: Bootstrapping document understanding via multi-modal logic-aware retrieval",
+        "author": "Wu, Xixi and Yanchao Tan and Nan Hou and Ruiyang Zhang and Hong Cheng",
+        "booktitle": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+        "year": "2025",
+        "pages": "14035--14056",
+        "month": "November"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Molorag%3A%20Bootstrapping%20document%20understanding%20via%20multi-modal%20logic-aware%20retrieval",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref36",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Lilac: Late interacting in layered component graph for open-domain multimodal multihop retrieval",
+        "author": "Yun, Joohyung and Doyup Lee and Wook-Shin Han",
+        "booktitle": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+        "year": "2025",
+        "pages": "20551--20570",
+        "month": "November"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Lilac%3A%20Late%20interacting%20in%20layered%20component%20graph%20for%20open-domain%20multimodal%20multihop%20retrieval",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref37",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Docagent: An agentic framework for multi-modal long-context document understanding",
+        "author": "Sun, Li and Liu He and Shuyue Jia and Yangfan He and Chenyu You",
+        "booktitle": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+        "year": "2025",
+        "pages": "17712--17727",
+        "month": "November"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Docagent%3A%20An%20agentic%20framework%20for%20multi-modal%20long-context%20document%20understanding",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref38",
+      "entry_type": "article",
+      "fields": {
+        "title": "URaG: Unified retrieval and generation in multimodal LLMs for efficient long document understanding",
+        "author": "Shi, Yongxin and Jiapeng Wang and Zeyu Shan and Dezhi Peng and Zening Lin and Lianwen Jin",
+        "journal": "Proceedings of the AAAI Conference on Artificial Intelligence",
+        "year": "2026",
+        "volume": "40",
+        "number": "30",
+        "pages": "25357--25365",
+        "month": "March"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=URaG%3A%20Unified%20retrieval%20and%20generation%20in%20multimodal%20LLMs%20for%20efficient%20long%20document%20understanding",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref40",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Dmap: Human-aligned structural document map for multimodal document understanding",
+        "author": "Fu, Shunliang and Yanxin Zhang and Yixin Xiang and Xiaoyu Du and Jinhui Tang",
+        "booktitle": "Proceedings of the ACM Web Conference 2026",
+        "year": "2026",
+        "pages": "2037--2048",
+        "month": "April"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Dmap%3A%20Human-aligned%20structural%20document%20map%20for%20multimodal%20document%20understanding",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref41",
+      "entry_type": "article",
+      "fields": {
+        "title": "Visrag 2.0: Evidence-guided multi-image reasoning in visual retrieval-augmented generation",
+        "author": "Sun, Yubo and Chunyi Peng and Yukun Yan and Shi Yu and Zhenghao Liu and Chi Chen and Zhiyuan Liu and Maosong Sun",
+        "journal": "arXiv preprint arXiv:2510.09733",
+        "year": "2025"
+      },
+      "paper_url": "https://arxiv.org/abs/2510.09733",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Visrag%202.0%3A%20Evidence-guided%20multi-image%20reasoning%20in%20visual%20retrieval-augmented%20generation",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref71",
+      "entry_type": "article",
+      "fields": {
+        "title": "SynthDocBench: Controlled Benchmark for Long-Context Visual Document Understanding",
+        "author": "Verma, Abhigya and Khyati Mahajan and Amit Kumar Saha and Shruthan Radhakrishna and Sagar Davasam and Vikas Yadav and Sai Rajeswar Mudumba",
+        "journal": "arXiv preprint arXiv:2607.10400",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2607.10400",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=SynthDocBench%3A%20Controlled%20Benchmark%20for%20Long-Context%20Visual%20Document%20Understanding",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref72",
+      "entry_type": "article",
+      "fields": {
+        "title": "DocAtlas: Long-Document Understanding as Mutable-State Interaction",
+        "author": "Wei, Hongchen and Wang, Yuanzhe and Liu, Bei and Yang, Yifan and Dai, Qi and Qiu, Kai and Li, Yunsheng and Chen, Dongdong and Luo, Chong and Chen, Zhenzhong and Guo, Baining",
+        "journal": "arXiv preprint arXiv:2608.07527",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2608.07527",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=DocAtlas%3A%20Long-Document%20Understanding%20as%20Mutable-State%20Interaction",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref75",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Chartqa: A benchmark for question answering about charts with visual and logical reasoning",
+        "author": "Masry, Ahmed and Jia Qing Tan and Shafiq Joty and Enamul Hoque",
+        "booktitle": "Findings of the association for computational linguistics: ACL 2022",
+        "year": "2022",
+        "pages": "2263--2279",
+        "month": "May"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Chartqa%3A%20A%20benchmark%20for%20question%20answering%20about%20charts%20with%20visual%20and%20logical%20reasoning",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref76",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Pix2struct: Screenshot parsing as pretraining for visual language understanding",
+        "author": "Lee, Kenton and Mandar Joshi and Iulia Raluca Turc and Hexiang Hu and Fangyu Liu and Julian Martin Eisenschlos and Urvashi Khandelwal and Peter Shaw and Ming-Wei Chang and Kristina Toutanova",
+        "booktitle": "International Conference on Machine Learning",
+        "year": "2023",
+        "pages": "18893--18912",
+        "month": "July",
+        "organization": "PMLR"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Pix2struct%3A%20Screenshot%20parsing%20as%20pretraining%20for%20visual%20language%20understanding",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref79",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "CMDR: Contextual Multimodal Document Retrieval",
+        "author": "Tanaka, Ryota and Taku Hasegawa and Kyosuke Nishida",
+        "booktitle": "European Conference on Computer Vision",
+        "year": "2026",
+        "pages": "77--95",
+        "month": "September",
+        "publisher": "Springer Nature Switzerland",
+        "address": "Cham"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=CMDR%3A%20Contextual%20Multimodal%20Document%20Retrieval",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref82",
+      "entry_type": "article",
+      "fields": {
+        "title": "Vidore benchmark v2: Raising the bar for visual retrieval",
+        "author": "Macé, Quentin and António Loison and Manuel Faysse",
+        "journal": "arXiv preprint arXiv:2505.17166",
+        "year": "2025"
+      },
+      "paper_url": "https://arxiv.org/abs/2505.17166",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Vidore%20benchmark%20v2%3A%20Raising%20the%20bar%20for%20visual%20retrieval",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref134",
+      "entry_type": "article",
+      "fields": {
+        "title": "HierDoc: Hierarchical Page-to-Region Evidence Routing for Long-Document Visual Question Answering",
+        "author": "Gu, Rongjian and Wengang Zhou and Junyu Xiong and Yonghui Wang and Bing Yin and Bei Wang and Houqiang Li",
+        "journal": "arXiv preprint arXiv:2607.29638",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2607.29638",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=HierDoc%3A%20Hierarchical%20Page-to-Region%20Evidence%20Routing%20for%20Long-Document%20Visual%20Question%20Answering",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref145",
+      "entry_type": "article",
+      "fields": {
+        "title": "DocClaw: A Unified Agentic System for Intelligent Document Processing",
+        "author": "Xiang, Siqi and Zhipeng Xu and Yufei Liu and Junhao Ji and Qing Liu and Zulong Chen and Zhibo Yang and Chunyan Miao and Shijian Lu",
+        "journal": "arXiv preprint arXiv:2608.18685",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2608.18685",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=DocClaw%3A%20A%20Unified%20Agentic%20System%20for%20Intelligent%20Document%20Processing",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref148",
+      "entry_type": "article",
+      "fields": {
+        "title": "DocMemo: Dynamic Evidence Discovery via Probabilistic Memory-Guided Retrieval for Multi-Modal Document Understanding",
+        "author": "Yao, Hanshu and Janfeng Zhong and Niu Lian and Jinpeng Wang",
+        "journal": "arXiv preprint arXiv:2608.07067",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2608.07067",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=DocMemo%3A%20Dynamic%20Evidence%20Discovery%20via%20Probabilistic%20Memory-Guided%20Retrieval%20for%20Multi-Modal%20Document%20Understanding",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref149",
+      "entry_type": "article",
+      "fields": {
+        "title": "D2-ScaleAgent: Dual-Dimensional Scaling for Long Document Understanding",
+        "author": "Zhang, Hao and Longrong Yang and Lunhao Duan and Ziyang Wang and Qing-Guo Chen and Shanshan Zhao",
+        "journal": "arXiv preprint arXiv:2608.16417",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2608.16417",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=D2-ScaleAgent%3A%20Dual-Dimensional%20Scaling%20for%20Long%20Document%20Understanding",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref150",
+      "entry_type": "article",
+      "fields": {
+        "title": "Navigating Sparse Evidence: Agentic Visual RAG via Explicit Context Selection and Consolidation",
+        "author": "Shen, Yucheng and Lingyong Yan and Jiulong Wu and Shuaiqiang Wang and Jianmin WU and Dawei Yin and Min Cao",
+        "journal": "arXiv preprint arXiv:2609.15800",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2609.15800",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Navigating%20Sparse%20Evidence%3A%20Agentic%20Visual%20RAG%20via%20Explicit%20Context%20Selection%20and%20Consolidation",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref156",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Neusym-rag: Hybrid neural symbolic retrieval with multiview structuring for pdf question answering",
+        "author": "Cao, Ruisheng and Zhang, Hanchong and Huang, Tiancheng and Kang, Zhangyi and Zhang, Yuxin and Sun, Liangtai and Li, Hanqi and Miao, Yuxun and Fan, Shuai and Chen, Lu and Yu, Kai",
+        "booktitle": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "year": "2025",
+        "pages": "6211--6239",
+        "month": "July"
+      },
+      "paper_url": "https://aclanthology.org/2025.acl-long.311/",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Neusym-rag%3A%20Hybrid%20neural%20symbolic%20retrieval%20with%20multiview%20structuring%20for%20pdf%20question%20answering",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref157",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "AirQA: A Comprehensive QA Dataset for AI Research with Instance-Level Evaluation",
+        "author": "Huang, Tiancheng and Cao, Ruisheng and Zhang, Yuxin and Kang, Zhangyi and Wang, Zijian and Wang, Chenrun and Luo, Yijie and Zheng, Hang and Qian, Lirong and Chen, Lu and Yu, Kai",
+        "booktitle": "International Conference on Learning Representations",
+        "year": "2026",
+        "volume": "2026",
+        "pages": "9927--9955",
+        "month": "April"
+      },
+      "paper_url": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/10d35352a92bb40943bb4ed096a407b6-Abstract-Conference.html",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=AirQA%3A%20A%20Comprehensive%20QA%20Dataset%20for%20AI%20Research%20with%20Instance-Level%20Evaluation",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref5",
+      "entry_type": "article",
+      "fields": {
+        "title": "Spiqa: A dataset for multimodal question answering on scientific papers",
+        "author": "Pramanick, Shraman and Rama Chellappa and Subhashini Venugopalan",
+        "journal": "Advances in Neural Information Processing Systems",
+        "volume": "37",
+        "pages": "118807--118833",
+        "year": "2024"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Spiqa%3A%20A%20dataset%20for%20multimodal%20question%20answering%20on%20scientific%20papers",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref12",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Docbench: A benchmark for evaluating llm-based document reading systems",
+        "author": "Zou, Anni and Wenhao Yu and Hongming Zhang and Kaixin Ma and Deng Cai and Zhuosheng Zhang and Hai Zhao and Dong Yu",
+        "booktitle": "Proceedings of the 4th international workshop on knowledge-augmented methods for natural language processing",
+        "pages": "359--373",
+        "year": "2025"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Docbench%3A%20A%20benchmark%20for%20evaluating%20llm-based%20document%20reading%20systems",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref14",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Longdocurl: a comprehensive multimodal long document benchmark integrating understanding, reasoning, and locating",
+        "author": "Deng, Chao and Yuan, Jiale and Bu, Pi and Wang, Peijie and Li, Zhong-Zhi and Xu, Jian and Li, Xiao-Hui and Gao, Yuan and Song, Jun and Zheng, Bo and Liu, Cheng-Lin",
+        "booktitle": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "pages": "1135--1159",
+        "year": "2025"
+      },
+      "paper_url": "https://aclanthology.org/2025.acl-long.57/",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Longdocurl%3A%20a%20comprehensive%20multimodal%20long%20document%20benchmark%20integrating%20understanding%2C%20reasoning%2C%20and%20locating",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref19",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "DocMMIR: A Framework for Document Multi-modal Information Retrieval",
+        "author": "Li, Zirui and Siwei Wu and Yizhi Li and Xingyu Wang and Yi Zhou and Chenghua Lin",
+        "booktitle": "EMNLP (Findings)",
+        "pages": "13117--13130",
+        "year": "2025"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=DocMMIR%3A%20A%20Framework%20for%20Document%20Multi-modal%20Information%20Retrieval",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref22",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Doclayllm: An efficient multi-modal extension of large language models for text-rich document understanding",
+        "author": "Liao, Wenhui and Jiapeng Wang and Hongliang Li and Chengyu Wang and Jun Huang and Lianwen Jin",
+        "booktitle": "2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+        "pages": "4038--4049",
+        "publisher": "IEEE",
+        "year": "2025"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Doclayllm%3A%20An%20efficient%20multi-modal%20extension%20of%20large%20language%20models%20for%20text-rich%20document%20understanding",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref23",
+      "entry_type": "article",
+      "fields": {
+        "title": "DocVAL: Validated Chain-of-Thought Distillation for Grounded Document VQA",
+        "author": "Neogi, Pinaki Prasad Guha and Ahmad Mohammadshirazi and Ser-Nam Lim and Rajiv Ramnath",
+        "journal": "arXiv preprint arXiv:2511.22521",
+        "year": "2025"
+      },
+      "paper_url": "https://arxiv.org/abs/2511.22521",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=DocVAL%3A%20Validated%20Chain-of-Thought%20Distillation%20for%20Grounded%20Document%20VQA",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref24",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Uni-DocRobust: Universal Plug-and-Play Robustness Enhancement for Multi-modal LLMs via Feature Restoration",
+        "author": "Zhou, Yuxuan and Baole Wei and Xingjian Hu and Haowei Chen and Yu Li and Xingyue Lin and Liangcai Gao and Zhi Tang",
+        "booktitle": "Forty-third International Conference on Machine Learning",
+        "year": "2026"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Uni-DocRobust%3A%20Universal%20Plug-and-Play%20Robustness%20Enhancement%20for%20Multi-modal%20LLMs%20via%20Feature%20Restoration",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref28",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Visual document understanding and reasoning: A multi-agent collaboration framework with agent-wise adaptive test-time scaling",
+        "author": "Yu, Xinlei and Chengming Xu and Zhangquan Chen and Yudong Zhang and Shilin Lu and Cheng Yang and Jiangning Zhang and Shuicheng Yan and Xiaobin Hu",
+        "booktitle": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+        "pages": "12300--12311",
+        "year": "2026"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Visual%20document%20understanding%20and%20reasoning%3A%20A%20multi-agent%20collaboration%20framework%20with%20agent-wise%20adaptive%20test-time%20scaling",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref31",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Towards storage-efficient visual document retrieval: An empirical study on reducing patch-level embeddings",
+        "author": "Ma, Yubo and Li, Jinsong and Zang, Yuhang and Wu, Xiaobao and Dong, Xiaoyi and Zhang, Pan and Cao, Yuhang and Duan, Haodong and Wang, Jiaqi and Cao, Yixin and Sun, Aixin",
+        "booktitle": "Findings of the Association for Computational Linguistics: ACL 2025",
+        "pages": "19568--19580",
+        "year": "2025"
+      },
+      "paper_url": "https://aclanthology.org/2025.findings-acl.1003/",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Towards%20storage-efficient%20visual%20document%20retrieval%3A%20An%20empirical%20study%20on%20reducing%20patch-level%20embeddings",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref39",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "M3RAG: Orchestrating Multi-agent Reasoning for Multi-hop, Multi-modal Understanding",
+        "author": "Du, Haizhou and Wenhao Li",
+        "booktitle": "International Conference on Multimedia Modeling",
+        "pages": "364--378",
+        "publisher": "Springer Nature Singapore",
+        "address": "Singapore",
+        "year": "2026"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=M3RAG%3A%20Orchestrating%20Multi-agent%20Reasoning%20for%20Multi-hop%2C%20Multi-modal%20Understanding",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref43",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Resolving evidence sparsity: Agentic context engineering for long-document understanding",
+        "author": "Liu, Keliang and Zizhi Chen and Mingcheng Li and Jingqun Tang and Dingkang Yang and Lihua Zhang",
+        "booktitle": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+        "pages": "19452--19462",
+        "year": "2026"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Resolving%20evidence%20sparsity%3A%20Agentic%20context%20engineering%20for%20long-document%20understanding",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref45",
+      "entry_type": "article",
+      "fields": {
+        "title": "Hkrag: Holistic knowledge retrieval-augmented generation over visually-rich documents",
+        "author": "Tong, Anyang and Xiang Niu and ZhiPing Liu and Chang Tian and Yanyan Wei and Zenglin Shi and Meng Wang",
+        "journal": "arXiv preprint arXiv:2511.20227",
+        "year": "2025"
+      },
+      "paper_url": "https://arxiv.org/abs/2511.20227",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Hkrag%3A%20Holistic%20knowledge%20retrieval-augmented%20generation%20over%20visually-rich%20documents",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref47",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Lad-rag: Layout-aware dynamic rag for visually-rich document understanding",
+        "author": "Sourati, Zhivar and Wang, Zheng and Liu, Marianne Menglin and Hu, Yazhe and Guo, Mengqing and Bharadwaj, Sujeeth and Han, Kyu J. and Sheng, Tao and Ravi, Sujith and Dehghani, Morteza and Roth, Dan",
+        "booktitle": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "pages": "15945--15968",
+        "year": "2026"
+      },
+      "paper_url": "https://aclanthology.org/2026.acl-long.724/",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Lad-rag%3A%20Layout-aware%20dynamic%20rag%20for%20visually-rich%20document%20understanding",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref54",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Unidocvlm: Enhancing visual reasoning and document understanding for vlm via reinforcement learning",
+        "author": "Cao, Zongsheng and Anran Liu and Jun Xie and Lang Chen and Feng Chen and Zigan Wang",
+        "booktitle": "Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V. 2",
+        "pages": "275--284",
+        "year": "2026"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Unidocvlm%3A%20Enhancing%20visual%20reasoning%20and%20document%20understanding%20for%20vlm%20via%20reinforcement%20learning",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref55",
+      "entry_type": "article",
+      "fields": {
+        "title": "VISOR: Agentic Visual Retrieval-Augmented Generation via Iterative Search and Over-horizon Reasoning",
+        "author": "Shen, Yucheng and Jiulong Wu and Jizhou Huang and Dawei Yin and Lingyong Yan and Min Cao",
+        "journal": "arXiv preprint arXiv:2604.09508",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2604.09508",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=VISOR%3A%20Agentic%20Visual%20Retrieval-Augmented%20Generation%20via%20Iterative%20Search%20and%20Over-horizon%20Reasoning",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref57",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "TRACE: Traversal Retrieval-Augmented Chain of Evidence for Document Understanding",
+        "author": "He, Liqi and Zuchao Li and Hao Huang and Ping Wang",
+        "booktitle": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "pages": "9806--9825",
+        "year": "2026"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=TRACE%3A%20Traversal%20Retrieval-Augmented%20Chain%20of%20Evidence%20for%20Document%20Understanding",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref58",
+      "entry_type": "article",
+      "fields": {
+        "title": "XL-DocBench: Benchmarking Evidence-Grounded Extra-Long Document Understanding",
+        "author": "Wei, Hongchen and Wang, Yuanzhe and Liu, Bei and Yang, Yifan and Dai, Qi and Ma, Ruichun and Qiu, Kai and Li, Yunsheng and Chen, Dongdong and Luo, Chong and Chen, Zhenzhong and Guo, Baining",
+        "journal": "arXiv preprint arXiv:2608.00036",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2608.00036",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=XL-DocBench%3A%20Benchmarking%20Evidence-Grounded%20Extra-Long%20Document%20Understanding",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref63",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Docslm: A small vision-language model for long multimodal document understanding",
+        "author": "Hannan, Tanveer and Dimitrios Mallios and Parth Pathak and Faegheh Sardari and Thomas Seidl and Gedas Bertasius and Mohsen Fayyaz and Sunando Sengupta",
+        "booktitle": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+        "pages": "9337--9346",
+        "year": "2026"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Docslm%3A%20A%20small%20vision-language%20model%20for%20long%20multimodal%20document%20understanding",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref64",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "AdaNav: Query-Adaptive Multi-granularity Navigation for Long Document Understanding",
+        "author": "Xu, Yiming and Eric López and Artemis Llabrés and Maximiliano Hormazábal and Ernest Valveny and Dimosthenis Karatzas",
+        "booktitle": "International Conference on Document Analysis and Recognition",
+        "pages": "55--72",
+        "publisher": "Springer Nature Switzerland",
+        "address": "Cham",
+        "year": "2026"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=AdaNav%3A%20Query-Adaptive%20Multi-granularity%20Navigation%20for%20Long%20Document%20Understanding",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref65",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Flow-Based Page Unique Semantic Mapping Architecture for Document Visual Question Answering",
+        "author": "Wang, Haosen and Jing Xiao and Chaochao Du and Xiaowang Zhang and Zhiyong Feng",
+        "booktitle": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "pages": "36260--36280",
+        "year": "2026"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Flow-Based%20Page%20Unique%20Semantic%20Mapping%20Architecture%20for%20Document%20Visual%20Question%20Answering",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref66",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "ICDAR2026 Competition on Multimodal Reasoning over Documents in Multiple Domains",
+        "author": "Llabrés, Artemis and Marc Serra Ortega and Tomàs Ockier and Samuel Ortega Cuadra and Amritpal Singh and Christos Georgakilas and Andrey Barsky and Ernest Valveny and Dimosthenis Karatzas",
+        "booktitle": "International Conference on Document Analysis and Recognition",
+        "pages": "336--352",
+        "publisher": "Springer Nature Switzerland",
+        "address": "Cham",
+        "year": "2026"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=ICDAR2026%20Competition%20on%20Multimodal%20Reasoning%20over%20Documents%20in%20Multiple%20Domains",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref69",
+      "entry_type": "article",
+      "fields": {
+        "title": "InSight-doc: Agentic Visual Perception for Long-Document Understanding",
+        "author": "Li, Kaican and Weiyan Xie and Lewei Yao and Jiannan Wu and Lanqing Hong and Yongxiang Huang and Nevin L. Zhang",
+        "journal": "arXiv preprint arXiv:2608.10628",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2608.10628",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=InSight-doc%3A%20Agentic%20Visual%20Perception%20for%20Long-Document%20Understanding",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref73",
+      "entry_type": "article",
+      "fields": {
+        "title": "ViSAR: Training-Free Adaptive- k Retrieval for Visual Document Question Answering",
+        "author": "Mialland, Adrien and Marc Plantevit and Julien Gallois and Céline Robardet",
+        "journal": "arXiv preprint arXiv:2609.02486",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2609.02486",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=ViSAR%3A%20Training-Free%20Adaptive-%20k%20Retrieval%20for%20Visual%20Document%20Question%20Answering",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref74",
+      "entry_type": "article",
+      "fields": {
+        "title": "How to Train Your Long-Context Visual Document Model",
+        "author": "Veselka, Austin",
+        "journal": "arXiv preprint arXiv:2602.15257",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2602.15257",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=How%20to%20Train%20Your%20Long-Context%20Visual%20Document%20Model",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref77",
+      "entry_type": "article",
+      "fields": {
+        "title": "G^ 2-Reader: Dual Evolving Graphs for Multimodal Document QA",
+        "author": "Du, Yaxin and Song, Junru and Zhou, Yifan and Wang, Cheng and Gu, Jiahao and Chen, Zimeng and Chen, Menglan and Yao, Wen and Yang, Yang and Wen, Ying and Chen, Siheng",
+        "journal": "arXiv preprint arXiv:2601.22055",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2601.22055",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=G%5E%202-Reader%3A%20Dual%20Evolving%20Graphs%20for%20Multimodal%20Document%20QA",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref78",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Multimodal arxiv: A dataset for improving scientific comprehension of large vision-language models",
+        "author": "Li, Lei and Yuqi Wang and Runxin Xu and Peiyi Wang and Xiachong Feng and Lingpeng Kong and Qi Liu",
+        "booktitle": "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "pages": "14369--14387",
+        "year": "2024"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Multimodal%20arxiv%3A%20A%20dataset%20for%20improving%20scientific%20comprehension%20of%20large%20vision-language%20models",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref80",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Hybrid-vector retrieval for visually rich documents: Combining single-vector efficiency and multi-vector accuracy",
+        "author": "Kim, Juyeon and Geon Lee and Dongwon Choi and Taeuk Kim and Kijung Shin",
+        "booktitle": "Findings of the Association for Computational Linguistics: ACL 2026",
+        "pages": "1073--1089",
+        "year": "2026"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Hybrid-vector%20retrieval%20for%20visually%20rich%20documents%3A%20Combining%20single-vector%20efficiency%20and%20multi-vector%20accuracy",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref81",
+      "entry_type": "article",
+      "fields": {
+        "title": "Coverage Matters: MarginMerge for Compressing Multi-Vector Visual Document Retrievers",
+        "author": "Mahdizadeh, Ailar and Aria Salari and Sohail Rajabi and Shahriar Mirabbasi and Panos Nasiopoulos and Alireza Morsali",
+        "journal": "arXiv preprint arXiv:2608.02969",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2608.02969",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Coverage%20Matters%3A%20MarginMerge%20for%20Compressing%20Multi-Vector%20Visual%20Document%20Retrievers",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref84",
+      "entry_type": "article",
+      "fields": {
+        "title": "ReAlign: Optimizing the Visual Document Retriever with Reasoning-Guided Fine-Grained Alignment",
+        "author": "Yang, Hao and Yifan Ji and Zhipeng Xu and Zhenghao Liu and Yukun Yan and Zulong Chen and Shuo Wang and Yu Gu and Ge Yu",
+        "journal": "arXiv preprint arXiv:2604.07419",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2604.07419",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=ReAlign%3A%20Optimizing%20the%20Visual%20Document%20Retriever%20with%20Reasoning-Guided%20Fine-Grained%20Alignment",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref85",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "LightSTAR: Efficient Visual Document Retrieval via Lightweight Selection with Vision-Adaptive Refinement",
+        "author": "Guan, Tongkun and Haocheng Wang and Wei Shen and Xiaokang Yang",
+        "booktitle": "European Conference on Computer Vision",
+        "pages": "669--687",
+        "publisher": "Springer Nature Switzerland",
+        "address": "Cham",
+        "year": "2026"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=LightSTAR%3A%20Efficient%20Visual%20Document%20Retrieval%20via%20Lightweight%20Selection%20with%20Vision-Adaptive%20Refinement",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref90",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "MM-BizRAG: Rethinking Multimodal Retrieval-Augmented Generation for General Purpose Enterprise Q&A",
+        "author": "Bhathena, Hanoz and Parin Rajesh Jhaveri and Rohan Mittal and Prateek Singh and Aymen Kallala and Rachneet Kaur and Yiqiao Jin and Zhen Zeng and Adwait Ratnaparkhi and Denis Kochedykov",
+        "booktitle": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)",
+        "pages": "1967--2000",
+        "year": "2026"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=MM-BizRAG%3A%20Rethinking%20Multimodal%20Retrieval-Augmented%20Generation%20for%20General%20Purpose%20Enterprise%20Q%26A",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref91",
+      "entry_type": "article",
+      "fields": {
+        "title": "DistilVDR: A Compact End-to-End Visual Document Retriever via Dual-Student Distillation",
+        "author": "Liu, Zhuchenyang and Ziyi Wang and Yao Zhang and Yu Xiao",
+        "journal": "arXiv preprint arXiv:2608.10636",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2608.10636",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=DistilVDR%3A%20A%20Compact%20End-to-End%20Visual%20Document%20Retriever%20via%20Dual-Student%20Distillation",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref93",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "mplug-docowl 1.5: Unified structure learning for ocr-free document understanding",
+        "author": "Hu, Anwen and Haiyang Xu and Jiabo Ye and Ming Yan and Liang Zhang and Bo Zhang and Ji Zhang and Qin Jin and Fei Huang and Jingren Zhou",
+        "booktitle": "Findings of the Association for Computational Linguistics: EMNLP 2024",
+        "pages": "3096--3120",
+        "year": "2024"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=mplug-docowl%201.5%3A%20Unified%20structure%20learning%20for%20ocr-free%20document%20understanding",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref95",
+      "entry_type": "article",
+      "fields": {
+        "title": "DocArena: Turning Raw Documents into Controllable Training Environments for Document Search Agents",
+        "author": "Wang, Jiamian and Ruiyi Zhang and Tong Yu and Jing Shi and Samyadeep Basu and Rajiv Jain and Zhiqiang Tao and Tong Sun",
+        "journal": "arXiv preprint arXiv:2606.26122",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2606.26122",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=DocArena%3A%20Turning%20Raw%20Documents%20into%20Controllable%20Training%20Environments%20for%20Document%20Search%20Agents",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref97",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Attention as Selector: Unlocking VLM Attention for Long Document Page Retrieval",
+        "author": "Zhu, Minfeng and Linxin Bao and Wei Chen and Linchao Zhu",
+        "booktitle": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "pages": "24344--24365",
+        "year": "2026"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Attention%20as%20Selector%3A%20Unlocking%20VLM%20Attention%20for%20Long%20Document%20Page%20Retrieval",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref98",
+      "entry_type": "article",
+      "fields": {
+        "title": "VinQA: Visual Elements Interleaved Long-form Answer Generation for Real-World Multimodal Document QA",
+        "author": "Jang, Young Rok and Hyesoo Kong and Kyunghwan An and Jae Sub Huh and Gyeonghun Kim and Stanley Jungkyu Choi",
+        "journal": "arXiv preprint arXiv:2606.16092",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2606.16092",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=VinQA%3A%20Visual%20Elements%20Interleaved%20Long-form%20Answer%20Generation%20for%20Real-World%20Multimodal%20Document%20QA",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref99",
+      "entry_type": "article",
+      "fields": {
+        "title": "Constrained Dominant Sets for Multimodal Document Question Answering",
+        "author": "Mehrish, Ambuj and Sebastiano Vascon",
+        "journal": "arXiv preprint arXiv:2606.07252",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2606.07252",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Constrained%20Dominant%20Sets%20for%20Multimodal%20Document%20Question%20Answering",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref100",
+      "entry_type": "article",
+      "fields": {
+        "title": "Uda: A benchmark suite for retrieval augmented generation in real-world document analysis",
+        "author": "Hui, Yulong and Yao Lu and Huanchen Zhang",
+        "journal": "Advances in Neural Information Processing Systems",
+        "volume": "37",
+        "pages": "67200--67217",
+        "year": "2024"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Uda%3A%20A%20benchmark%20suite%20for%20retrieval%20augmented%20generation%20in%20real-world%20document%20analysis",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref102",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "SCAN: Semantic Document Layout Analysis for Textual and Visual Retrieval-Augmented Generation",
+        "author": "Ueda, Nobuhiro and Yuyang Dong and Krisztián Boros and Daiki Ito and Takuya Sera and Masafumi Oyamada",
+        "booktitle": "Findings of the Association for Computational Linguistics: EACL 2026",
+        "pages": "1618--1637",
+        "year": "2026"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=SCAN%3A%20Semantic%20Document%20Layout%20Analysis%20for%20Textual%20and%20Visual%20Retrieval-Augmented%20Generation",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref103",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "HiKEY: Hierarchical Multimodal Retrieval for Open-Domain Document Question Answering",
+        "author": "Shin, Joongmin and Gyuho Shim and Jeongbae Park and Jaehyung Seo and Heui-Seok Lim",
+        "booktitle": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "pages": "17967--17987",
+        "year": "2026"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=HiKEY%3A%20Hierarchical%20Multimodal%20Retrieval%20for%20Open-Domain%20Document%20Question%20Answering",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref105",
+      "entry_type": "article",
+      "fields": {
+        "title": "Benchmarking retrieval-augmented multimomal generation for document question answering",
+        "author": "Dong, Kuicai and Chang, Yujing and Huang, Shijie and Wang, Yasheng and Tang, Ruiming and Liu, Yong",
+        "journal": "Advances in Neural Information Processing Systems",
+        "volume": "38",
+        "year": "2026"
+      },
+      "paper_url": "https://openreview.net/pdf?id=W4b3v9jx1p",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Benchmarking%20retrieval-augmented%20multimomal%20generation%20for%20document%20question%20answering",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref106",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "DocRetriever: A Plug-and-Play Framework for Multimodal Document Retrieval with Comprehensive Benchmark",
+        "author": "Hu, Ruofan and Zhu, Menghui and Zhu, Jieming and Chen, Bo and Xu, Shengyang and Hong, Minjie and Yang, Xiaoda and Zhou, Sashuai and Tang, Li and Jin, Tao and Zhao, Zhou",
+        "booktitle": "Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V. 2",
+        "pages": "1780--1791",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2605.30027",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=DocRetriever%3A%20A%20Plug-and-Play%20Framework%20for%20Multimodal%20Document%20Retrieval%20with%20Comprehensive%20Benchmark",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref107",
+      "entry_type": "article",
+      "fields": {
+        "title": "Hybrid Retriever Evolution for Multimodal Document Reasoning Agents",
+        "author": "Yao, Bohan and Shruthan Radhakrishna and Vikas Yadav",
+        "journal": "arXiv preprint arXiv:2606.29648",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2606.29648",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Hybrid%20Retriever%20Evolution%20for%20Multimodal%20Document%20Reasoning%20Agents",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref108",
+      "entry_type": "article",
+      "fields": {
+        "title": "TAP-RAG: Task-Aware Policy Control for Long-Document Multimodal Question Answering",
+        "author": "Ji, Zhong and Keqi Jin and Yan Zhang and Jiasheng Li",
+        "journal": "arXiv preprint arXiv:2607.18917",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2607.18917",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=TAP-RAG%3A%20Task-Aware%20Policy%20Control%20for%20Long-Document%20Multimodal%20Question%20Answering",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref109",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Finragbench-v: A benchmark for multimodal rag with visual citation in the financial domain",
+        "author": "Zhao, Suifeng and Zhuoran Jin and Sujian Li and Jun Gao",
+        "booktitle": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+        "pages": "4215--4249",
+        "year": "2025"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Finragbench-v%3A%20A%20benchmark%20for%20multimodal%20rag%20with%20visual%20citation%20in%20the%20financial%20domain",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref163",
+      "entry_type": "article",
+      "fields": {
+        "title": "MemoryDocDataSet: A Benchmark for Joint Conversational Memory and Long Document Reasoning",
+        "author": "Xie, Qiyang and Jialun Wu and Xinjie He and Su Liu and Shuai Xiao and Zhiyuan Lin and Weikai Zhou",
+        "journal": "arXiv preprint arXiv:2606.04442",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2606.04442",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=MemoryDocDataSet%3A%20A%20Benchmark%20for%20Joint%20Conversational%20Memory%20and%20Long%20Document%20Reasoning",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref164",
+      "entry_type": "article",
+      "fields": {
+        "title": "Memskill: Learning and evolving memory skills for self-evolving agents",
+        "author": "Zhang, Haozhen and Quanyu Long and Jianzhu Bao and Tao Feng and Weizhi Zhang and Haodong Yue and Wenya Wang",
+        "journal": "arXiv preprint arXiv:2602.02474",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2602.02474",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Memskill%3A%20Learning%20and%20evolving%20memory%20skills%20for%20self-evolving%20agents",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref165",
+      "entry_type": "article",
+      "fields": {
+        "title": "Recursive self-improvement of AI research agents",
+        "author": "Srikanth, Dhruv and Bingchen Zhao and Dixing Xu and Yuxiang Wu and Zhengyao Jiang",
+        "journal": "arXiv preprint arXiv:2609.26457",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2609.26457",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Recursive%20self-improvement%20of%20AI%20research%20agents",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref110",
+      "entry_type": "article",
+      "fields": {
+        "title": "Look as you think: Unifying reasoning and visual evidence attribution for verifiable document RAG via reinforcement learning",
+        "author": "Liu, Shuochen and Pengfei Luo and Chao Zhang and Yuhao Chen and Haotian Zhang and Qi Liu and Xin Kou and Tong Xu and Enhong Chen",
+        "journal": "Proceedings of the AAAI Conference on Artificial Intelligence",
+        "volume": "40",
+        "number": "38",
+        "pages": "32159--32167",
+        "year": "2026"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Look%20as%20you%20think%3A%20Unifying%20reasoning%20and%20visual%20evidence%20attribution%20for%20verifiable%20document%20RAG%20via%20reinforcement%20learning",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref111",
+      "entry_type": "article",
+      "fields": {
+        "title": "Chain of Evidence: Pixel-Level Visual Attribution for Iterative Retrieval-Augmented Generation",
+        "author": "Liu, Peiyang and Ziqiang Cui and Xi Wang and Di Liang and Wei Ye",
+        "journal": "arXiv preprint arXiv:2605.01284",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2605.01284",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Chain%20of%20Evidence%3A%20Pixel-Level%20Visual%20Attribution%20for%20Iterative%20Retrieval-Augmented%20Generation",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref112",
+      "entry_type": "article",
+      "fields": {
+        "title": "Evidence Attribution in Visual Document Understanding without Coordinates or Region Labels",
+        "author": "Liu, Zhuchenyang and Yao Zhang and Yu Xiao",
+        "journal": "arXiv preprint arXiv:2607.24651",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2607.24651",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Evidence%20Attribution%20in%20Visual%20Document%20Understanding%20without%20Coordinates%20or%20Region%20Labels",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref114",
+      "entry_type": "article",
+      "fields": {
+        "title": "FLOWREADER: Min-Cost Flow Optimization for Multi-Modal Long Document Q&A",
+        "author": "Mehrish, Ambuj and Sebastiano Vascon",
+        "journal": "arXiv preprint arXiv:2606.07235",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2606.07235",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=FLOWREADER%3A%20Min-Cost%20Flow%20Optimization%20for%20Multi-Modal%20Long%20Document%20Q%26A",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref116",
+      "entry_type": "article",
+      "fields": {
+        "title": "An Empirical Study of VLM Pipelines for Long-Document QA",
+        "author": "Ak, Kenan E. and Jay Mohta and Gwang Gook Lee and Yan Xu and Dimitrios Dimitriadis",
+        "journal": "arXiv preprint arXiv:2609.29933",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2609.29933",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=An%20Empirical%20Study%20of%20VLM%20Pipelines%20for%20Long-Document%20QA",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref119",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "M3Grounder: Mask-Based Multi-Span and Multi-Granular Grounding for Document QA",
+        "author": "Venna, Venkata Kesav and Sai Madhusudan Gunda and Jyothi Swaroopa Jinka and Hrithik Sagar Rachakonda and Anirudh Srinivasan and Ravi Kiran Sarvadevabhatla",
+        "booktitle": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+        "pages": "23685--23695",
+        "year": "2026"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=M3Grounder%3A%20Mask-Based%20Multi-Span%20and%20Multi-Granular%20Grounding%20for%20Document%20QA",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref120",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "DoCoG: Mask-Based Multi-type Grounded Chain-of-Thought for Document QA",
+        "author": "Gunda, Sai Madhusudan and Jyothi Swaroopa Jinka and Hrithik Sagar Rachakonda and Aryan Jain and Venkata Kesav Venna and Anirudh Srinivasan and Ravi Kiran Sarvadevabhatla",
+        "booktitle": "European Conference on Computer Vision",
+        "pages": "308--327",
+        "publisher": "Springer Nature Switzerland",
+        "address": "Cham",
+        "year": "2026"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=DoCoG%3A%20Mask-Based%20Multi-type%20Grounded%20Chain-of-Thought%20for%20Document%20QA",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref121",
+      "entry_type": "article",
+      "fields": {
+        "title": "Capability-Routed Visual Retrieval and Evidence Threading for Long-Context Document Question Answering",
+        "author": "Rahman, Amirul and Aisha Karim and Kenji Nakamura and Yi-Fan Ng",
+        "journal": "arXiv preprint arXiv:2609.13268",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2609.13268",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Capability-Routed%20Visual%20Retrieval%20and%20Evidence%20Threading%20for%20Long-Context%20Document%20Question%20Answering",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref122",
+      "entry_type": "article",
+      "fields": {
+        "title": "DocPC: Document-Level Visual Retrieval via Representative Page Composition",
+        "author": "You, Chengsong and Zhou, Junwei and Cao, Xiaoyu and Wang, Weiyao and Xu, Yiwei and Zhao, Ziyan and Sun, Zhen and Zhu, Qicheng and Fu, Xuanyi and Chen, Yufan and others",
+        "journal": "arXiv preprint arXiv:2608.25434",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2608.25434",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=DocPC%3A%20Document-Level%20Visual%20Retrieval%20via%20Representative%20Page%20Composition",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref123",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Dual-Stream Adaptive Retrieval and Hierarchical Agent Collaboration for Document Visual QA",
+        "author": "Fang, Qin and Ruixue Gou and Shiqi Liu and Minqi Song and Pan Yuan and Xian Peng",
+        "booktitle": "Asia-Pacific Web (APWeb) and Web-Age Information Management (WAIM) Joint International Conference on Web and Big Data",
+        "pages": "402--416",
+        "publisher": "Springer Nature Singapore",
+        "address": "Singapore",
+        "year": "2025"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Dual-Stream%20Adaptive%20Retrieval%20and%20Hierarchical%20Agent%20Collaboration%20for%20Document%20Visual%20QA",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref124",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "LayoutLLM: Large language model instruction tuning for visually rich document understanding",
+        "author": "Fujitake, Masato",
+        "booktitle": "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
+        "pages": "10219--10224",
+        "year": "2024"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=LayoutLLM%3A%20Large%20language%20model%20instruction%20tuning%20for%20visually%20rich%20document%20understanding",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref125",
+      "entry_type": "article",
+      "fields": {
+        "title": "Very efficient listwise multimodal reranking for long documents",
+        "author": "Sun, Yiqun and Pengfei Wei and Lawrence B. Hsieh",
+        "journal": "arXiv preprint arXiv:2605.11864",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2605.11864",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Very%20efficient%20listwise%20multimodal%20reranking%20for%20long%20documents",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref128",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "ALDEN: Reinforcement Learning for Active Navigation and Evidence Gathering in Long Documents",
+        "author": "Yang, Tianyu and Terry Ruas and Yijun Tian and Jan Philip Wahle and Daniel Kurzawe and Bela Gipp",
+        "booktitle": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "pages": "13371--13392",
+        "year": "2026"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=ALDEN%3A%20Reinforcement%20Learning%20for%20Active%20Navigation%20and%20Evidence%20Gathering%20in%20Long%20Documents",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref129",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "SlideAgent: Hierarchical Agentic Framework for Multi-Page Visual Document Understanding",
+        "author": "Jin, Yiqiao and Rachneet Kaur and Zhen Zeng and Sumitra Ganesh and Srijan Kumar",
+        "booktitle": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "pages": "14858--14881",
+        "year": "2026"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=SlideAgent%3A%20Hierarchical%20Agentic%20Framework%20for%20Multi-Page%20Visual%20Document%20Understanding",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref130",
+      "entry_type": "article",
+      "fields": {
+        "title": "LFRAG: Layout-oriented Fine-grained Retrieval-Augmented Generation on Multimodal Document Understanding",
+        "author": "Zhu, Yifan and Yu Mi and Yue Lu and Yanchu Guan and Zhixuan Chu",
+        "journal": "arXiv preprint arXiv:2605.22829",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2605.22829",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=LFRAG%3A%20Layout-oriented%20Fine-grained%20Retrieval-Augmented%20Generation%20on%20Multimodal%20Document%20Understanding",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref131",
+      "entry_type": "article",
+      "fields": {
+        "title": "Evo-retriever: Llm-guided curriculum evolution with viewpoint-pathway collaboration for multimodal document retrieval",
+        "author": "Li, Weiqing and Jinyue Guo and Yaqi Wang and Haiyang Xiao and Yuewei Zhang and Guohua Liu and Hao Henry Wang",
+        "journal": "arXiv preprint arXiv:2603.16455",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2603.16455",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Evo-retriever%3A%20Llm-guided%20curriculum%20evolution%20with%20viewpoint-pathway%20collaboration%20for%20multimodal%20document%20retrieval",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref132",
+      "entry_type": "article",
+      "fields": {
+        "title": "ConceptFormer: Learning Adaptive Latent Concepts for Query-Document Alignment in Visual Document Retrieval",
+        "author": "Peng, Chunyi and Xu, Zhipeng and Yan, Yukun and Liu, Zhenghao and Yu, Shi and Mei, Sen and Sun, Yubo and Zhang, Yongheng and Zhou, Jie and Gu, Yu and Yu, Ge and Sun, Maosong",
+        "journal": "arXiv preprint arXiv:2608.15698",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2608.15698",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=ConceptFormer%3A%20Learning%20Adaptive%20Latent%20Concepts%20for%20Query-Document%20Alignment%20in%20Visual%20Document%20Retrieval",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref133",
+      "entry_type": "article",
+      "fields": {
+        "title": "Are we on the right way to assess document retrieval-augmented generation?",
+        "author": "Shen, Wenxuan and Mingjia Wang and Yaochen Wang and Dongping Chen and Junjie Yang and Yao Wan and Weiwei Lin",
+        "journal": "Proceedings of the AAAI Conference on Artificial Intelligence",
+        "volume": "40",
+        "number": "39",
+        "pages": "32929--32937",
+        "year": "2026"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Are%20we%20on%20the%20right%20way%20to%20assess%20document%20retrieval-augmented%20generation%3F",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref135",
+      "entry_type": "article",
+      "fields": {
+        "title": "MIDR: Enrichment-Augmented Indexing for Multimodal Document Retrieval",
+        "author": "Mahata, Debanjan and Atharva Tendle and Daniel Preotiuc-Pietro and Yong Zhuang and Ozan Irsoy",
+        "journal": "arXiv preprint arXiv:2609.01316",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2609.01316",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=MIDR%3A%20Enrichment-Augmented%20Indexing%20for%20Multimodal%20Document%20Retrieval",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref136",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "PaperScope: A Multi-Modal Multi-Document Benchmark for Agentic Deep Research Across Massive Scientific Papers",
+        "author": "Xiong, Lei and Huaying Yuan and Zheng Liu and Zhao Cao and Zhicheng Dou",
+        "booktitle": "Findings of the Association for Computational Linguistics: ACL 2026",
+        "pages": "8015--8040",
+        "year": "2026"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=PaperScope%3A%20A%20Multi-Modal%20Multi-Document%20Benchmark%20for%20Agentic%20Deep%20Research%20Across%20Massive%20Scientific%20Papers",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref137",
+      "entry_type": "article",
+      "fields": {
+        "title": "Hierarchical Evidence-Driven Reasoning for Long Document Understanding",
+        "author": "Xiong, Junyu and Yonghui Wang and Rongjian Gu and Chenyu Liu and Bing Yin and Wengang Zhou and Houqiang Li",
+        "journal": "arXiv preprint arXiv:2607.04625",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2607.04625",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Hierarchical%20Evidence-Driven%20Reasoning%20for%20Long%20Document%20Understanding",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref138",
+      "entry_type": "article",
+      "fields": {
+        "title": "Mldocrag: Multimodal long-context document retrieval augmented generation",
+        "author": "Zhang, Yongyue and Yaxiong Wu",
+        "journal": "arXiv preprint arXiv:2602.10271",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2602.10271",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Mldocrag%3A%20Multimodal%20long-context%20document%20retrieval%20augmented%20generation",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref139",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Docopilot: Improving multimodal models for document-level understanding",
+        "author": "Duan, Yuchen and Chen, Zhe and Hu, Yusong and Wang, Weiyun and Ye, Shenglong and Shi, Botian and Lu, Lewei and Hou, Qibin and Lu, Tong and Li, Hongsheng and Dai, Jifeng and Wang, Wenhai",
+        "booktitle": "2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+        "pages": "4026--4037",
+        "publisher": "IEEE",
+        "year": "2025"
+      },
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/html/Duan_Docopilot_Improving_Multimodal_Models_for_Document-Level_Understanding_CVPR_2025_paper.html",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Docopilot%3A%20Improving%20multimodal%20models%20for%20document-level%20understanding",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref140",
+      "entry_type": "misc",
+      "fields": {
+        "title": "RegionDoc-R1: Reinforcing Semantic Layout-Aware Learning for Document Understanding",
+        "author": "Wang, Chao and Hehe Fan and Huichen Yang and Zhengdong Hu and Sarvnaz Karimi and Lina Yao and Yi Yang",
+        "year": "2026"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=RegionDoc-R1%3A%20Reinforcing%20Semantic%20Layout-Aware%20Learning%20for%20Document%20Understanding",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref141",
+      "entry_type": "article",
+      "fields": {
+        "title": "MARDoc: A Memory-Aware Refinement Agent Framework for Multimodal Long Document QA",
+        "author": "Chen, Kaifeng and Hongtao Liu and Qiyao Peng and Jian Yang and Yongqiang Liu and Xiaochen Zhang and Qing Yang",
+        "journal": "arXiv preprint arXiv:2606.05749",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2606.05749",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=MARDoc%3A%20A%20Memory-Aware%20Refinement%20Agent%20Framework%20for%20Multimodal%20Long%20Document%20QA",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref142",
+      "entry_type": "article",
+      "fields": {
+        "title": "Wukong: A large multimodal model for efficient long pdf reading with end-to-end sparse sampling",
+        "author": "Xie, Xudong and Hao Yan and Liang Yin and Yang Liu and Jing Ding and Minghui Liao and Yuliang Liu and Wei Chen and Xiang Bai",
+        "journal": "International Journal of Computer Vision",
+        "volume": "134",
+        "number": "7",
+        "pages": "324",
+        "year": "2026"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Wukong%3A%20A%20large%20multimodal%20model%20for%20efficient%20long%20pdf%20reading%20with%20end-to-end%20sparse%20sampling",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref143",
+      "entry_type": "article",
+      "fields": {
+        "title": "What the Reranker Sees: Multi-Aspect Page Annotation for Long-Document Multimodal Question Answering",
+        "author": "Wu, Guanchen and Jiayuan Ding and Subhabrata Mukherjee and Carl Yang",
+        "journal": "arXiv preprint arXiv:2608.14841",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2608.14841",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=What%20the%20Reranker%20Sees%3A%20Multi-Aspect%20Page%20Annotation%20for%20Long-Document%20Multimodal%20Question%20Answering",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref144",
+      "entry_type": "article",
+      "fields": {
+        "title": "AdaMerge: Tuning-Free Patch Compression for Multi-Vector Visual Document Retrieval",
+        "author": "You, Jianxin and Kun Ni",
+        "journal": "arXiv preprint arXiv:2609.22562",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2609.22562",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=AdaMerge%3A%20Tuning-Free%20Patch%20Compression%20for%20Multi-Vector%20Visual%20Document%20Retrieval",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref146",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Lang2act: Fine-grained visual reasoning through self-emergent linguistic toolchains",
+        "author": "Xiong, Yuqi and Chunyi Peng and Zhipeng Xu and Zhenghao Liu and Zulong Chen and Yukun Yan and Shuo Wang and Yu Gu and Ge Yu",
+        "booktitle": "Findings of the Association for Computational Linguistics: ACL 2026",
+        "pages": "8375--8399",
+        "year": "2026"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Lang2act%3A%20Fine-grained%20visual%20reasoning%20through%20self-emergent%20linguistic%20toolchains",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref147",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "MDocRAG-RL: Empowering Multi-Modal Document RAG via Complex Visual Reasoning with Reinforcement Learning",
+        "author": "Wang, Zhongyu",
+        "booktitle": "Findings of the Association for Computational Linguistics: ACL 2026",
+        "pages": "8641--8651",
+        "year": "2026"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=MDocRAG-RL%3A%20Empowering%20Multi-Modal%20Document%20RAG%20via%20Complex%20Visual%20Reasoning%20with%20Reinforcement%20Learning",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref151",
+      "entry_type": "article",
+      "fields": {
+        "title": "BayesRAG: Probabilistic mutual evidence corroboration for multimodal retrieval-augmented generation",
+        "author": "Li, Xuan and Yining Wang and Haocai Luo and Shengping Liu and Jerry Liang and Ying Fu and Jun Yu and Junnan Zhu",
+        "journal": "arXiv preprint arXiv:2601.07329",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2601.07329",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=BayesRAG%3A%20Probabilistic%20mutual%20evidence%20corroboration%20for%20multimodal%20retrieval-augmented%20generation",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref152",
+      "entry_type": "article",
+      "fields": {
+        "title": "Mmgraphrag: Bridging vision and language with interpretable multimodal knowledge graphs",
+        "author": "Wan, Xueyao and Hang Yu",
+        "journal": "arXiv preprint arXiv:2507.20804",
+        "year": "2025"
+      },
+      "paper_url": "https://arxiv.org/abs/2507.20804",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Mmgraphrag%3A%20Bridging%20vision%20and%20language%20with%20interpretable%20multimodal%20knowledge%20graphs",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref153",
+      "entry_type": "inproceedings",
+      "fields": {
+        "title": "Superrag: Beyond rag with layout-aware graph modeling",
+        "author": "Yang, Chening and Duy-Khanh Vu and Minh-Tien Nguyen and Xuan-Quang Nguyen and Linh Nguyen and Hung Le",
+        "booktitle": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 3: Industry Track)",
+        "pages": "544--557",
+        "year": "2025"
+      },
+      "paper_url": null,
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Superrag%3A%20Beyond%20rag%20with%20layout-aware%20graph%20modeling",
+      "link_provenance": {
+        "source": "title-based Google Scholar search",
+        "kind": "scholar_search",
+        "verification": "search link only; no paper destination verified"
+      }
+    },
+    {
+      "citekey": "ref154",
+      "entry_type": "article",
+      "fields": {
+        "title": "Frag: Frame selection augmented generation for long video and long document understanding",
+        "author": "Huang, De-An and Subhashree Radhakrishnan and Zhiding Yu and Jan Kautz",
+        "journal": "arXiv preprint arXiv:2504.17447",
+        "year": "2025"
+      },
+      "paper_url": "https://arxiv.org/abs/2504.17447",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Frag%3A%20Frame%20selection%20augmented%20generation%20for%20long%20video%20and%20long%20document%20understanding",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref155",
+      "entry_type": "article",
+      "fields": {
+        "title": "Exploring Information Seeking Agent Consolidation",
+        "author": "Yan, Guochen and Wu, Jialong and Tao, Zhengwei and Li, Bo and Zhang, Qintong and Xu, Jiahao and Mi, Haitao and Fang, Yuejian and Shen, Qingni and Zhang, Wentao and Wu, Zhonghai",
+        "journal": "arXiv preprint arXiv:2602.00585",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2602.00585",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=Exploring%20Information%20Seeking%20Agent%20Consolidation",
+      "link_provenance": {
+        "source": "reference_sources.json:authorSourceUrl",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    },
+    {
+      "citekey": "ref158",
+      "entry_type": "article",
+      "fields": {
+        "title": "TAEC: Trajectory-Aware Evidence Coordination for Multi-Step Visual RAG",
+        "author": "Wu, Yalun and Bingzhou Wang and Boyang Wang and Peiying Wang and Shaojie He and Yunhan Wang and Shaozu Yuan and Jiawei Wang",
+        "journal": "arXiv preprint arXiv:2609.37349",
+        "year": "2026"
+      },
+      "paper_url": "https://arxiv.org/abs/2609.37349",
+      "scholar_search_url": "https://scholar.google.com/scholar?q=TAEC%3A%20Trajectory-Aware%20Evidence%20Coordination%20for%20Multi-Step%20Visual%20RAG",
+      "link_provenance": {
+        "source": "references.bib:journal",
+        "kind": "paper",
+        "verification": "recorded in manuscript source; not independently rechecked for this repository"
+      }
+    }
+  ]
+}

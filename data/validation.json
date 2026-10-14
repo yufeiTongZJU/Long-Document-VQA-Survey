@@ -1,0 +1,41 @@
+{
+  "bibliography_entries": 165,
+  "catalog_records": {
+    "benchmarks": 55,
+    "direct-reading": 29,
+    "explicit-retrieval": 110
+  },
+  "groups": {
+    "benchmarks": {
+      "Retrieval-focused benchmarks": 11,
+      "Answer-quality benchmarks: #Pages (avg.) = 1.0, #Pages (avg.) > 1.0 or unreported": 44
+    },
+    "direct-reading": {
+      "Single-page VQA": 16,
+      "Multi-page VQA": 13
+    },
+    "explicit-retrieval": {
+      "Retrieval-only methods": 20,
+      "Document VQA methods": 90
+    }
+  },
+  "unique_cited_keys_in_catalogs": 158,
+  "catalog_rows_with_paper_url": 93,
+  "catalog_rows_with_search_only": 101,
+  "unavailable_release_months": [
+    {
+      "catalog": "direct-reading",
+      "name": "Uni-DocRobust",
+      "first_release_display": "26.--"
+    },
+    {
+      "catalog": "direct-reading",
+      "name": "RegionDoc-R1*",
+      "first_release_display": "26.--"
+    }
+  ],
+  "all_citekeys_resolve": true,
+  "all_table_rows_preserved": true,
+  "unparsed_latex": false,
+  "bibtex_copied_byte_identically": true
+}
