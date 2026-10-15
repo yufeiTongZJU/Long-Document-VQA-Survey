@@ -16,15 +16,13 @@ Yufei Tong<sup>1</sup>, Guanjie Cheng<sup>2,&#42;</sup>, Tianle Wu<sup>3</sup>, 
 
 ## Overview
 
-How can long-document VQA systems acquire and use **sufficient evidence within a limited budget**?
-
-We analyze how document VQA systems meet these requirements, emphasizing explicit retrieval while also covering direct reading.
+How can long-document VQA systems acquire and use **sufficient evidence under context and computational budgets**? We examine how task bottlenecks shape technical choices and research priorities, focusing on explicit retrieval while covering direct reading.
 
 ## Core contributions
 
-- **A task-driven framework.** We connect content fidelity, evidence sufficiency, evidence use, and reliable evaluation to four interacting components: document parsing, evidence organization and retrieval, generator organization and learning, and evaluation.
-- **A fine-grained taxonomy by task function.** We categorize representations and structures, retrieval modalities and granularities, acquisition strategies, reasoning and learning, and evaluation capabilities. This clarifies distinctions such as iterative evidence acquisition versus multi-step reasoning.
-- **Bottleneck-driven technical evolution.** We trace expanding priorities from multimodal understanding to sufficient, high-fidelity evidence acquisition and sustained evidence management, explaining how bottlenecks and feedback connect technical choices across components.
+- **Task-centric, fine-grained taxonomy.** Organize methods by the challenges addressed through parsing, evidence organization and retrieval, generator organization and learning, and evaluation. Distinguish technical choices such as iterative evidence acquisition and multi-step reasoning.
+- **Evolution through task bottlenecks.** Trace expanding priorities from multimodal content understanding to sufficient, high-fidelity evidence acquisition and sustained evidence management, explaining how feedback connects the four components.
+- **Research opportunities.** Identify directions for reliable answers under limited budgets and for continual document understanding through memory reuse and strategy improvement.
 
 ![Task decomposition and two technical routes for long-document VQA](assets/task-framework.png)
 
@@ -37,20 +35,18 @@ We analyze how document VQA systems meet these requirements, emphasizing explici
 
 ## Future research directions
 
-Our outlook connects open challenges to concrete opportunities for system design and evaluation at two levels.
-
 ### Reliable and efficient answers to individual questions
 
-- **Evidence sufficiency:** Construct complementary evidence sets, model dependencies, and test whether systems detect relevant but insufficient support before deciding to acquire more evidence or stop.
-- **Verifiable and correctable understanding:** Link intermediate judgments to source pages and regions, test whether evidence supports answers, and revise erroneous memories and dependent conclusions.
-- **Budget-aware coordination:** Coordinate parsing, retrieval, reading, verification, and stopping using evidence states and remaining budgets; measure answer quality against end-to-end cost across document lengths and budgets.
+- **Evidence sufficiency:** Relevant evidence may still be incomplete. Model dependencies, acquire complementary support, and assess remaining gaps before answering.
+- **Verifiable and correctable understanding:** Correct answers can mask faulty reasoning. Trace intermediate judgments to sources, verify support, and correct errors and dependent conclusions.
+- **Budget-aware coordination:** Local gains may not improve the full pipeline. Coordinate acquisition, reading, verification, and stopping using evidence states and remaining budgets; evaluate answer quality against end-to-end cost.
 
 ### Toward continual document understanding
 
-- **Memory reuse across questions:** Reuse evidence and interaction history while tracking provenance, checking continued applicability, and revising memories after user corrections or document updates.
-- **Continual, experience-driven strategy improvement:** Develop transferable retrieval, reading, and verification procedures from successes, failures, and feedback; validate proposed strategies on independent tasks before updating agents or their skills.
+- **Memory reuse across questions:** Reuse evidence and interaction history with source tracing, checking applicability and revising memory after corrections or document updates.
+- **Strategy improvement across tasks:** Turn experience into transferable retrieval, reading, and verification procedures; validate them on independent tasks before updating agents or skills.
 
-Section 4 and Appendix D of the survey develop these research opportunities in detail.
+Section 4 and Appendix D develop these directions into research opportunities for system design and evaluation.
 
 ## Paper lists
 
