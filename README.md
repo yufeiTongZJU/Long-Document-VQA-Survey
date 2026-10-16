@@ -157,3 +157,5 @@ If you find this survey useful, please cite it. This entry will be updated after
 Our original content is licensed under [CC BY 4.0](LICENSE). Linked resources retain their own licenses.
 
 **Suggestions and corrections:** Please [open an issue](https://github.com/yufeiTongZJU/Long-Document-VQA-Survey/issues/new?template=paper-or-correction.md) to suggest relevant papers, correct entries, or report broken links.
+
+We will keep this repository updated, and if you find it useful, a ⭐ would mean a lot to us!
