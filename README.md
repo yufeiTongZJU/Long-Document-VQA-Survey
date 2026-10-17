@@ -54,13 +54,13 @@ We analyze over 150 papers and organize this survey around task decomposition, f
 
 **Iterative acquisition and multi-step reasoning are distinct:** reasoning may revisit existing evidence without retrieving new evidence.
 
-Tables 1–3 compare representative methods and benchmarks. The complete appendix tables are browsable on GitHub, with all classification fields, paper links, dates, and notes.
+Tables 1–3 compare representative methods and benchmarks. The GitHub catalogs retain all appendix classification fields, paper links, dates, and notes, and include subsequent additions.
 
 | Coverage | Representative comparison | Complete table on GitHub |
 | :--- | :--- | :--- |
 | Explicit retrieval | Table 1 | [Table 6 · 110 methods](papers/explicit-retrieval.md) |
 | Direct reading | Table 2 | [Table 5 · 29 methods](papers/direct-reading.md) |
-| Benchmarks | Table 3 | [Table 4 · 55 benchmarks](papers/benchmarks.md) |
+| Benchmarks | Table 3 | [Table 4 + updates · 57 benchmarks](papers/benchmarks.md) |
 
 <details>
 <summary><strong>Table 1 · Representative explicit-retrieval methods</strong></summary>
