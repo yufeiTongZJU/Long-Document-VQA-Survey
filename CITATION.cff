@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this catalog or the survey's taxonomy, please cite the accompanying survey. The arXiv citation will be added after release."
+message: "If you use this catalog or the survey's taxonomy, please cite the accompanying arXiv survey."
 type: dataset
 title: "Long-Document VQA Survey: Literature Catalog"
 url: "https://github.com/yufeiTongZJU/Long-Document-VQA-Survey"
@@ -22,11 +22,12 @@ authors:
   - family-names: Deng
     given-names: Shuiguang
 preferred-citation:
-  type: unpublished
+  type: article
   title: "A Task-Centric Survey of Long-Document Visual Question Answering: Taxonomy, Evolution, and Future Directions"
   year: 2026
-  notes: "Manuscript; arXiv citation will be added after release."
-  url: "https://github.com/yufeiTongZJU/Long-Document-VQA-Survey"
+  journal: arXiv
+  notes: "arXiv:2610.31385"
+  url: "https://arxiv.org/abs/2610.31385"
   authors:
     - family-names: Tong
       given-names: Yufei

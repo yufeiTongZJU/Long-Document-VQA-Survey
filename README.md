@@ -10,11 +10,11 @@ Yufei Tong<sup>1</sup>, Guanjie Cheng<sup>2,&#42;</sup>, Tianle Wu<sup>3</sup>, 
 <sup>4</sup>BWTON Technology Co., Ltd., China  
 <sup>&#42;</sup>Corresponding authors: Guanjie Cheng and Leilei Zhang.
 
-**[Read the full paper](paper/long-document-vqa-survey.pdf) · [Download PDF](https://github.com/yufeiTongZJU/Long-Document-VQA-Survey/raw/refs/heads/main/paper/long-document-vqa-survey.pdf)**
+**[arXiv:2610.31385](https://arxiv.org/abs/2610.31385) · [arXiv PDF](https://arxiv.org/pdf/2610.31385) · [Repository PDF](paper/long-document-vqa-survey.pdf)**
 
 [Framework](#1-task-driven-framework) · [Taxonomy and tables](#2-fine-grained-technical-taxonomy) · [Evolution and future directions](#3-technical-evolution-and-future-directions) · [Citation](#citation)
 
-*The PDF includes the full non-anonymous manuscript, references, and appendices. The arXiv link will be added after release.*
+*The full paper includes references and appendices.*
 
 ## Abstract
 
@@ -140,15 +140,17 @@ Section 4 and Appendix D develop these directions into concrete opportunities fo
 
 ## Citation
 
-If you find this survey useful, please cite it. This entry will be updated after the arXiv release.
+If you find this survey useful, please cite our [arXiv paper](https://arxiv.org/abs/2610.31385).
 
 ```bibtex
-@unpublished{tong2026taskcentric,
-  title  = {A Task-Centric Survey of Long-Document Visual Question Answering: Taxonomy, Evolution, and Future Directions},
-  author = {Tong, Yufei and Cheng, Guanjie and Wu, Tianle and Zhang, Leilei and Zheng, Hang and Wu, Peihan and Yin, Jianwei and Deng, Shuiguang},
-  year   = {2026},
-  note   = {Manuscript},
-  url    = {https://github.com/yufeiTongZJU/Long-Document-VQA-Survey}
+@misc{tong2026taskcentric,
+  title         = {A Task-Centric Survey of Long-Document Visual Question Answering: Taxonomy, Evolution, and Future Directions},
+  author        = {Tong, Yufei and Cheng, Guanjie and Wu, Tianle and Zhang, Leilei and Zheng, Hang and Wu, Peihan and Yin, Jianwei and Deng, Shuiguang},
+  year          = {2026},
+  eprint        = {2610.31385},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CV},
+  url           = {https://arxiv.org/abs/2610.31385}
 }
 ```
 
