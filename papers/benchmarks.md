@@ -2,9 +2,9 @@
 
 [Home](../README.md) · [Benchmarks](benchmarks.md) · [Direct reading](direct-reading.md) · [Explicit retrieval](explicit-retrieval.md)
 
-**57 records** covering dataset size, question types, evidence annotations, and evaluation capabilities. Based on [Appendix Table 4 (PDF, p. 22)](../paper/long-document-vqa-survey.pdf#page=22), with subsequently cataloged benchmarks added here.
+**58 records** covering dataset size, question types, evidence annotations, and evaluation capabilities. Based on [Appendix Table 4 (PDF, p. 22)](../paper/long-document-vqa-survey.pdf#page=22), with subsequently cataloged benchmarks added here.
 
-[Retrieval-focused benchmarks (11)](#group-1) · [Answer-quality benchmarks (46)](#group-2) · [Notation and notes](#notation-and-notes)
+[Retrieval-focused benchmarks (11)](#group-1) · [Answer-quality benchmarks (47)](#group-2) · [Notation and notes](#notation-and-notes)
 
 Names link to the recorded paper or a Google Scholar title search; hover for the paper title. Parenthesized years are bibliography years, and the smaller **(YY.MM)** dates indicate first release. **--** denotes unreported or inapplicable information. Scroll horizontally to view all 14 columns.
 
@@ -80,6 +80,7 @@ Includes single-page inputs (#Pages average = 1.0), followed by multipage inputs
 | [LFDocQA&nbsp;(2026)](https://arxiv.org/abs/2605.22829 "LFRAG: Layout-oriented Fine-grained Retrieval-Augmented Generation on Multimodal Document Understanding")&nbsp;<sub>(26.04)</sub> | arXiv’26 | Open | 964 | -- | -- | 1.0k | <img src="../assets/cross.svg" width="12" alt="No"> | <img src="../assets/cross.svg" width="12" alt="No"> | <img src="../assets/check.svg" width="12" alt="Yes"> | <img src="../assets/cross.svg" width="12" alt="No"> | TXT/&#8288;L/&#8288;C/&#8288;TAB | Page,&nbsp;Elem. | Ans.&nbsp;Ret.<sup>a</sup>&nbsp;Loc. |
 | [DocScope&nbsp;(2026)](https://arxiv.org/abs/2605.08888 "DocScope: Benchmarking Verifiable Reasoning for Trustworthy Long-Document Understanding")&nbsp;<sub>(26.05)</sub> | NIPS’26<sup>D</sup> | Closed | 273 | 51.3 | 24.6k | 1.12k | <img src="../assets/cross.svg" width="12" alt="No"> | <img src="../assets/check.svg" width="12" alt="Yes">&nbsp;(57.7%) | <img src="../assets/check.svg" width="12" alt="Yes">&nbsp;(35.3%) | <img src="../assets/check.svg" width="12" alt="Yes">&nbsp;(6.9%) | TXT/&#8288;C/&#8288;TAB/&#8288;I/&#8288;L | Page,&nbsp;Elem. | Ans.&nbsp;Ret.&nbsp;Loc. |
 | [XL&#8209;DocBench&nbsp;(2026)](https://arxiv.org/abs/2608.00036 "XL-DocBench: Benchmarking Evidence-Grounded Extra-Long Document Understanding")&nbsp;<sub>(26.07)</sub> | NIPS’26 | Open | 331 | -- | 227.5k | 1.5k | <img src="../assets/check.svg" width="12" alt="Yes">&nbsp;(10.9%) | <img src="../assets/check.svg" width="12" alt="Yes">&nbsp;(72.6%) | <img src="../assets/check.svg" width="12" alt="Yes"> | <img src="../assets/check.svg" width="12" alt="Yes">&nbsp;(14.4%) | TXT/&#8288;C/&#8288;TAB/&#8288;I | Page | Ans.&nbsp;Ret. |
+| [MMHop&#8209;DocBench&nbsp;(2026)](https://arxiv.org/abs/2610.36759 "DocSkill: Skill-Integrated Agentic Reasoning for Multilingual Multi-Hop Document Question Answering")&nbsp;<sub>(26.10)</sub> | arXiv’26 | Closed | 2.3k | 68.2 | -- | 60.1k | <img src="../assets/cross.svg" width="12" alt="No"> | <img src="../assets/check.svg" width="12" alt="Yes"> | <img src="../assets/cross.svg" width="12" alt="No"> | <img src="../assets/cross.svg" width="12" alt="No"> | TXT/&#8288;TAB/&#8288;I | Page,&nbsp;Elem. | Ans.&nbsp;Ret.<sup>a</sup> |
 
 ## Notation and notes
 
@@ -90,6 +91,8 @@ Includes single-page inputs (#Pages average = 1.0), followed by multipage inputs
 **ArxivFullQA.** The 8,648 evaluation questions are generated from scientific-paper LaTeX and checked against full-page images. Inputs span 1–30 pages, but the mean is unreported. MP/SP evidence requirements and public evidence annotations are unspecified, so MP/SP/Gran. remain -- and only Ans. is listed.
 
 **DocRobust-VQA.** This row covers the clean/corrupted ChartQA, TextVQA, DocVQA, and InfographicVQA evaluation subsets used in the paper. Test-set counts are unreported; the full resource totals (189,771 image pairs and 417,502 QA pairs) are not test-set sizes.
+
+**MMHop-DocBench.** Counts include training and test splits; the test split contains 700 documents and 19,132 questions. #Pages is the full-dataset document mean.
 
 **Scale and input.** Open and Closed denote a cross-document candidate collection and a given single document, respectively; Open/Closed supports both. **#Docs** counts documents or independent page inputs. **#Pages** is the average number of input pages per question, using a document-level mean when per-question statistics are unavailable; Open counts the full candidate collection for that question, and an independent image counts as one page. **#Tokens** is the mean text-token count per input document. **#QA** counts questions, queries, or localization tasks.
 
@@ -113,6 +116,7 @@ Includes single-page inputs (#Pages average = 1.0), followed by multipage inputs
 - UDA measures text-evidence coverage.
 - MMDocRAG includes text/image-segment selection.
 - LFDocQA includes element-ID matching.
+- MMHop-DocBench additionally evaluates supporting-element recall.
 - PaperPDF matches paragraph/figure/table IDs.
 
 Loc. for GroundingDocQA-Bench and DoCoG-Bench includes segmentation masks.

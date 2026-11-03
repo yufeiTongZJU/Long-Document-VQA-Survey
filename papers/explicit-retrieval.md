@@ -2,9 +2,9 @@
 
 [Home](../README.md) · [Benchmarks](benchmarks.md) · [Direct reading](direct-reading.md) · [Explicit retrieval](explicit-retrieval.md)
 
-**110 methods: 20 retrieval-only and 90 document VQA.** This is the full classification from Appendix Table 6, including parsing, evidence acquisition, generation, learning, and evaluation. [View the original table in the PDF](../paper/long-document-vqa-survey.pdf#page=24).
+**111 methods: 20 retrieval-only and 91 document VQA.** This is the full classification from Appendix Table 6, including parsing, evidence acquisition, generation, learning, and evaluation. [View the original table in the PDF](../paper/long-document-vqa-survey.pdf#page=24).
 
-[Retrieval-only methods (20)](#group-1) · [Document VQA methods (90)](#group-2) · [How to read the table](#how-to-read-the-table)
+[Retrieval-only methods (20)](#group-1) · [Document VQA methods (91)](#group-2) · [How to read the table](#how-to-read-the-table)
 
 Names link to the recorded paper URL or a Google Scholar title search; hover to see the paper title. The year beside the name is the bibliography year; the smaller **(YY.MM)** alongside it is the first-release date. Scroll horizontally to view all 13 columns.
 
@@ -135,6 +135,7 @@ Names link to the recorded paper URL or a Google Scholar title search; hover to 
 | [CAVR+&#8288;WSPS+&#8288;VET&nbsp;(2026)](https://arxiv.org/abs/2609.13268 "Capability-Routed Visual Retrieval and Evidence Threading for Long-Context Document Question Answering")&nbsp;<sub>(26.09)</sub> | arXiv’26 | <img src="../assets/check.svg" width="12" alt="Yes"> | Graph | Mixed(T/&#8288;V) | Page,&nbsp;Elem. | ColPali(P<sup>V</sup>) + WSPS<sup>t</sup>(P<sup>V</sup>) + VET<sup>t</sup>([P<sup>V</sup>,&nbsp;E<sup>T</sup>]) | One&#8209;shot | Single | Single&#8209;pass | Qwen&#8209;VL | SFT | Ans.&nbsp;Ret.&nbsp;Eff. |
 | [SCORE&nbsp;(2026)](https://arxiv.org/abs/2609.15800 "Navigating Sparse Evidence: Agentic Visual RAG via Explicit Context Selection and Consolidation")&nbsp;<sub>(26.09)</sub> | arXiv’26 | <img src="../assets/cross.svg" width="12" alt="No"> | <img src="../assets/cross.svg" width="12" alt="No"> | Uni(V) | Page,&nbsp;Elem. | ColQwen(P<sup>V</sup>) + VLM<sup>t</sup>(P<sup>V</sup>;&nbsp;E<sup>V</sup>) | Iterative | Single | Multi&#8209;step | Qwen&#8209;VL | SFT&nbsp;+&#8288;&nbsp;RL | Ans.&nbsp;Ret.&nbsp;Eff. |
 | [TAEC&nbsp;(2026)](https://arxiv.org/abs/2609.37349 "TAEC: Trajectory-Aware Evidence Coordination for Multi-Step Visual RAG")&nbsp;<sub>(26.09)</sub> | arXiv’26 | <img src="../assets/check.svg" width="12" alt="Yes"> | Summary | Mixed(T/&#8288;V) | Page | Qwen&#8209;VL&#8209;Embedding(P<sup>V</sup>) + Keyword(P<sup>T</sup>&#8288;→&#8288;P<sup>V</sup>) + VLM(P<sup>V</sup>) | Iterative | Single | Multi&#8209;step | Gemini | <img src="../assets/cross.svg" width="12" alt="No"> | Ans.&nbsp;Ret.&nbsp;Eff. |
+| [DocSkill&nbsp;(2026)](https://arxiv.org/abs/2610.36759 "DocSkill: Skill-Integrated Agentic Reasoning for Multilingual Multi-Hop Document Question Answering")&nbsp;<sub>(26.10)</sub> | arXiv’26 | <img src="../assets/check.svg" width="12" alt="Yes"> | <img src="../assets/cross.svg" width="12" alt="No"> | Uni(V) | Page,&nbsp;Elem. | Qwen&#8209;VL&#8209;Embedding(P<sup>V</sup>) + VLM<sup>t</sup>(E<sup>V</sup>) | Iterative | Single | Multi&#8209;step | Qwen&#8209;VL | SFT&nbsp;+&#8288;&nbsp;DPO | Ans.&nbsp;Ret.<sup>a</sup> |
 
 ## How to read the table
 
@@ -152,7 +153,7 @@ Names link to the recorded paper URL or a Google Scholar title search; hover to 
 - **Granularity** describes the evidence supplied to generators, or returned by retrieval-only methods: Document, Page, and Elem. (Element). Elements include independently accessible text blocks, sections, charts, tables, and region crops.
 - **Acquisition:** Iterative uses generation or control feedback to acquire evidence beyond the current set. One-shot permits fixed multistage retrieval, graph traversal, reranking, and refinement without feedback-driven expansion.
 - **Agent** distinguishes Single and Multi by runtime reasoning roles and collaboration. **Reasoning:** Single-pass includes a single chain of thought, structured decoding, or a fixed multi-agent pipeline; Multi-step revises judgments/actions through repeated feedback.
-- **Model** gives the main generator model family. **Learning** records added generator-side training, including answering, control, or tool components; it does not mean every module is trained. Structure and training types are listed directly; a standalone <img src="../assets/check.svg" width="12" alt="Yes"> in Learning indicates added training without a listed type. SFT = supervised fine-tuning; RL = reinforcement learning. Generation attributes are inapplicable to retrieval-only methods.
+- **Model** gives the main generator model family. **Learning** records added generator-side training, including answering, control, or tool components; it does not mean every module is trained. Structure and training types are listed directly; a standalone <img src="../assets/check.svg" width="12" alt="Yes"> in Learning indicates added training without a listed type. SFT = supervised fine-tuning; RL = reinforcement learning; DPO = direct preference optimization. Generation attributes are inapplicable to retrieval-only methods.
 
 ### Mechanism and evidence mappings
 
@@ -169,6 +170,7 @@ Only dimensions quantitatively reported in the original paper are listed: **Ans.
 
 - Ret. is document retrieval for DocMMIR, DocPC, NeuSym-RAG, and Agentic Hybrid (EXTRACTOR); document identification for HiKEY; and additionally document recall for HEAVEN.
 - LILaC evaluates layout-element retrieval; Doc-Researcher evaluates document/page/layout-element retrieval.
+- DocSkill additionally reports supporting-element recall.
 - G<sup>2</sup>-Reader Ret. measures semantic coverage of evidence statements; LFRAG includes element-ID matching; HierDoc includes region-ID-set F1; MoDora evaluates evidence-node recall and filtering.
 - ReAlign Loc. measures overlap between attention regions and supervised boxes; RGenCite includes VLM-assessed evidence support; Lang2Act measures the proportion of internal attention falling within gold regions.
 - MMRetHeads evaluates pages and layout regions on MMDocIR; LMS-Retrieval Ret./Loc. measure layout-element recall and region coverage.

@@ -58,9 +58,9 @@ Tables 1–3 compare representative methods and benchmarks. The GitHub catalogs 
 
 | Coverage | Representative comparison | Complete table on GitHub |
 | :--- | :--- | :--- |
-| Explicit retrieval | Table 1 | [Table 6 · 110 methods](papers/explicit-retrieval.md) |
+| Explicit retrieval | Table 1 | [Table 6 · 111 methods](papers/explicit-retrieval.md) |
 | Direct reading | Table 2 | [Table 5 · 29 methods](papers/direct-reading.md) |
-| Benchmarks | Table 3 | [Table 4 + updates · 57 benchmarks](papers/benchmarks.md) |
+| Benchmarks | Table 3 | [Table 4 + updates · 58 benchmarks](papers/benchmarks.md) |
 
 <details>
 <summary><strong>Table 1 · Representative explicit-retrieval methods</strong></summary>
