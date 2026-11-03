@@ -92,8 +92,6 @@ Includes single-page inputs (#Pages average = 1.0), followed by multipage inputs
 
 **DocRobust-VQA.** This row covers the clean/corrupted ChartQA, TextVQA, DocVQA, and InfographicVQA evaluation subsets used in the paper. Test-set counts are unreported; the full resource totals (189,771 image pairs and 417,502 QA pairs) are not test-set sizes.
 
-**MMHop-DocBench.** Counts include training and test splits; the test split contains 700 documents and 19,132 questions. #Pages is the full-dataset document mean.
-
 **Scale and input.** Open and Closed denote a cross-document candidate collection and a given single document, respectively; Open/Closed supports both. **#Docs** counts documents or independent page inputs. **#Pages** is the average number of input pages per question, using a document-level mean when per-question statistics are unavailable; Open counts the full candidate collection for that question, and an independent image counts as one page. **#Tokens** is the mean text-token count per input document. **#QA** counts questions, queries, or localization tasks.
 
 **Question types and evidence.** MD, MP, and SP denote multi-document, multi-page, and single-page evidence requirements, respectively; Unans. denotes questions unanswerable from the given evidence. <img src="../assets/check.svg" width="12" alt="Yes"> / <img src="../assets/cross.svg" width="12" alt="No"> indicates inclusion/exclusion; parentheses give proportions. In **Source**, TXT/L/C/TAB/I denotes text/layout/charts/tables/images. **Gran.** denotes the verification granularity supported by public evidence annotations: Doc. = Document; Elem. = Element. In open-domain settings, page annotations with document identities also support document verification, which is not listed again.
